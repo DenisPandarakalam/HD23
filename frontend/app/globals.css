@@ -1,8 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
- 
-@layer base {
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background: #08aeea;
+  --background-rgb-end: #2af598;
+  --background-rgb-white: #ffffff;
+}
+
+/* @media (prefers-color-scheme: dark) {
   :root {
     --background: 0 0% 100%;
     --foreground: 222.2 47.4% 11.2%;
@@ -68,14 +75,9 @@
  
     --radius: 0.5rem;
   }
-}
- 
-@layer base {
-  * {
-    @apply border-border;
-  }
-  body {
-    @apply bg-background text-foreground;
-    font-feature-settings: "rlig" 1, "calt" 1;
-  }
-}
+} */
+
+/* body {
+  color: rgb(var(--foreground-rgb));
+  background-color: var(--background-rgb-white);
+} */
