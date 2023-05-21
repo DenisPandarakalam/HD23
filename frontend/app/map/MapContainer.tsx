@@ -19,6 +19,15 @@ const MapContainer = () => {
         ]
     },
     {
+      "featureType": "poi",
+      "elementType": "labels",
+      "stylers": [
+          {
+              "visibility": "off"
+          }
+      ]
+    },
+    {
         "featureType": "poi.business",
         "elementType": "all",
         "stylers": [
@@ -88,6 +97,15 @@ const MapContainer = () => {
         ]
     },
     {
+      "featureType": "poi.park",
+      "elementType": "labels",
+      "stylers": [
+          {
+              "visibility": "off"
+          },
+      ]
+    },
+    {
         "featureType": "poi.school",
         "elementType": "all",
         "stylers": [
@@ -101,6 +119,15 @@ const MapContainer = () => {
                 "visibility": "on"
             },
         ]
+    },
+    {
+      "featureType": "poi.school",
+      "elementType": "labels",
+      "stylers": [
+          {
+              "visibility": "off"
+          },
+      ]
     },
     {
         "featureType": "poi.sports_complex",
