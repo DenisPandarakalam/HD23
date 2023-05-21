@@ -28,26 +28,26 @@ export default function Resources() {
   return (
     <>
       <div className="flex w-full flex-col text-left">
-        <div className="h-screen w-full bg-background rounded-tl-[50px] rounded-tr-[50px] pl-16 pt-16">
+        <div className="h-screen w-full bg-border rounded-tl-[50px] rounded-tr-[50px] pl-16 pt-16">
             {
                 SECTIONS.map((section, i) => {
 
                     return(
                         <div key={i} className="text-white">
-                            <h1 className="text-[48pt] font-bold ">
+                            <h1 className="text-[48pt] font-bold  border-b-8 border-white border border-t-0 border-r-0 border-l-0 ">
                                 {section.label}
                             </h1>
                             {
                                 Array.isArray(section.description) &&
                                 section.description.map((descriptionLine) => (
-                                    <div className="text-md font-light italic">
+                                    <div className="text-md font-bold">
                                         {descriptionLine}
                                     </div>
                                 ))
                             }
                             {
                                 !Array.isArray(section.description) &&
-                                <div className="text-md font-light italic">
+                                <div className="text-md font-bold">
                                     {section.description}
                                 </div>
                             }
