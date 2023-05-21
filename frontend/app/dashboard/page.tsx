@@ -1,12 +1,18 @@
 import Image from 'next/image'
-import SideBarNav from './sidebar'
+import { Button } from '@/components/ui/button'
+import { HoverCard, HoverCardContent, HoverCardTrigger } from '@/components/ui/hover-card'
+import SideBar from '@/components/sidebar/sidebar'
+import TopBar from '@/components/topbar/topbar'
 
 export default function Dashboard() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-black">
-      <div>
-        <SideBarNav />
+    <main className="flex min-h-screen flex-col bg-background">
+      <TopBar />
+      <SideBar />
+      <div className="z-10">
+        Hello
       </div>
     </main>
   )
 }
+

@@ -1,0 +1,29 @@
+.sidebar {
+    background-color: var(--gradient-start);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100px;
+    margin-top: 35px;
+}
+
+.iconContainer {
+    margin-top: 30px;
+}
+
+.icon {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 200px;
+    padding: 20px;
+}
+.icon:hover {
+    cursor: pointer;
+}
+
+.logoImg {
+    width: 50px;
+}

@@ -1,10 +1,9 @@
 import React from "react";
 import styles from "./sidebar.module.css";
-
-let SideBarNav = () => {
+let SideBar = () => {
 
     return(
-        <div className={styles.sidebar}>
+        <div className="h-screen bg-gradient w-36" >
             <div className={styles.logo}>
             </div>
             <div className={styles.iconContainer}>
@@ -27,5 +26,4 @@ let SideBarNav = () => {
         </div>
     );
 }
-
-export default SideBarNav;
+export default SideBar;
