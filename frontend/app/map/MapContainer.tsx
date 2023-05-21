@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { GoogleMap, LoadScript, Marker } from '@react-google-maps/api';
+import data from "./data_map.json";
 
 const MapContainer = () => {
 
@@ -269,7 +270,7 @@ const MapContainer = () => {
   };
   
   const defaultCenter = {
-    lat: 38.549962, lng: -121.734213
+    lat: 38.549962, lng: -121.738213
   }
 
   const position = {
@@ -290,9 +291,17 @@ const MapContainer = () => {
             zoomControl: false,
             styles: customMapStyle,
          }}>
-          <Marker
-            position={position}
-          />
+            {data.map((loc) => (
+                <Marker
+                key={loc.full_name}
+                position={{ lat: loc.location.lat, lng: loc.location.lng }}
+                animation={1}
+                icon = {{
+                    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Person_icon_BLACK-01.svg/1924px-Person_icon_BLACK-01.svg.png",
+                    scaledSize: new window.google.maps.Size(50, 50),
+                }}
+                />
+            ))}
         </GoogleMap>
      </LoadScript>
   )

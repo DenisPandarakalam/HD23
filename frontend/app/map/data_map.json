@@ -1,0 +1,2458 @@
+[
+  {
+    "full_name": "Julie Oddone",
+    "name": {
+      "title": "Ms.",
+      "first": "Julie",
+      "last": "Oddone"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+16283332047",
+    "pronouns": "",
+    "location": {
+      "line1": "132 E Street",
+      "line2": "Suite 320",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5427886,
+      "lng": -121.7406041
+    },
+    "education": {
+      "school": "California State University, Sacramento",
+      "graduation_year": 2007,
+      "years_in_practice": 14
+    },
+    "fees": {
+      "individual": 160,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "I wonder if you're scanning this site hoping to find someone who might finally get you, and offer some compassion so you don't have to feel so lost, worried, empty.  I have 15 years of experience holding space for people who need some perspective, guidance, humor and a chance to discover their own wisdom.  I love working with adults, young to not so young.Whether the issue is disordered eating, mood, trauma or if you are looking to improve your strained relationships, my office is a safe place to vent, get vulnerable and to find a plan to heal.  I practice EMDR, and I guide an exploration of emotion, beliefs and wisdom.  We will look at what's working, what's not and exactly what keeps you stuck.I am warm, fun and competent.  In my office we bond, laugh and get to the heart of things.  I can be on your team so you don't have to face this alone."
+    ],
+    "age_focus": [
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Codependency",
+      "Coping Skills",
+      "Depression",
+      "Eating Disorders",
+      "Emotional Disturbance",
+      "Life Coaching",
+      "Life Transitions",
+      "Trauma.  Identity.  ",
+      "Peer Relationships",
+      "Relationship Issues",
+      "School Issues",
+      "Self Esteem",
+      "Self-Harming",
+      "Stress",
+      "Trauma and PTSD",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals"
+    ],
+    "payment_methods": [
+      "American Express",
+      "Cash",
+      "Check",
+      "Discover",
+      "Visa",
+      "Wire"
+    ],
+    "treatment_orientation": [
+      "Attachment-based",
+      "Coaching",
+      "Cognitive Behavioral (CBT)",
+      "Compassion Focused",
+      "EMDR",
+      "Family Systems",
+      "Humanistic",
+      "Mindfulness-Based (MBCT)",
+      "Motivational Interviewing",
+      "Guided Imagery",
+      "Positive Discipline",
+      "Person-Centered",
+      "Psychodynamic",
+      "Relational",
+      "Solution Focused Brief (SFBT)"
+    ]
+  },
+  {
+    "full_name": "Diego Huston",
+    "name": {
+      "title": "",
+      "first": "Diego",
+      "last": "Huston"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15309245725",
+    "pronouns": "",
+    "location": {
+      "line1": "105 E Street",
+      "line2": null,
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5423402,
+      "lng": -121.7409909
+    },
+    "education": {
+      "school": "UC Davis",
+      "graduation_year": 2020,
+      "years_in_practice": 2
+    },
+    "fees": {
+      "individual": 115,
+      "couple": 135
+    },
+    "paragraph_descriptions": [
+      "My role as a therapist is to be an agent for exploration, healing, and personal growth. Of course, any progress we make together can only occur in the context of a working relationship between you and me. To that end, I promise to prioritize honesty, compassion, and your unique needs in our work together.My approach is eclectic and tailored to meet your goal. I don’t limit myself to one philosophy. I borrow wisdom wherever I can find it, whether that’s from literature, spirituality, or my professional training as a psychotherapist. Similarly, the clients I treat are from all walks of life, and no single therapeutic style can serve all of their unique needs.If you’re reading this, then you have the courage to ask for the help you need. Whether you’re struggling with new challenges, battling old demons, or just looking for a safe space to share your feelings, I would be honored to serve as your guide and provide the support you need. Please feel free to contact me directly to schedule a free phone consult."
+    ],
+    "age_focus": [
+      "Children (6 to 10)",
+      "Preteen",
+      "Teen",
+      "Adults",
+      "Elders (65+)"
+    ],
+    "issues": [
+      "Anxiety",
+      "Behavioral Issues",
+      "Child",
+      "Codependency",
+      "Coping Skills",
+      "Depression",
+      "Life Coaching",
+      "Childhood Relational Trauma",
+      "Childhood Issues",
+      "Peer Relationships",
+      "Relationship Issues",
+      "School Issues",
+      "Sleep or Insomnia",
+      "Stress",
+      "Trauma and PTSD"
+    ],
+    "modailities": [
+      "Individuals",
+      "Family"
+    ],
+    "payment_methods": [
+      "American Express",
+      "Cash",
+      "Check",
+      "Discover",
+      "Health Savings Account",
+      "Mastercard",
+      "Paypal",
+      "Venmo",
+      "Visa"
+    ],
+    "treatment_orientation": [
+      "Coaching",
+      "Eclectic",
+      "Existential",
+      "Integrative",
+      "Interpersonal",
+      "Play Therapy",
+      "Trauma Focused"
+    ]
+  },
+  {
+    "full_name": "Sharon DeRego",
+    "name": {
+      "title": "",
+      "first": "Sharon",
+      "last": "DeRego"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15304445730",
+    "pronouns": "",
+    "location": {
+      "line1": "719 2nd Street, Suite 3",
+      "line2": null,
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5437511,
+      "lng": -121.7392659
+    },
+    "education": {
+      "school": "California State University, Sacramento",
+      "graduation_year": 1997,
+      "years_in_practice": 22
+    },
+    "fees": {
+      "individual": 125,
+      "couple": 150
+    },
+    "paragraph_descriptions": [
+      "Do you feel sad, anxious and lonely?  Do you feel overwhelmed by life changes and relationships?  You are not alone!  All of us feel that way sometimes and all of us need a compassionate person to talk to.   I can help empower you to find out where these feelings are coming from and how to overcome them so you can lead a happier, fulfilled life. I believe that each person has the ability to grow and heal throughout their life spans but sometimes past trauma, grief, change and other circumstances prevent us from living happy, whole lives.  I can help support you through the therapeutic process as you embark on your healing journey."
+    ],
+    "age_focus": [
+      "Adults"
+    ],
+    "issues": [
+      "Adoption",
+      "Anxiety",
+      "Coping Skills",
+      "Depression",
+      "Grief",
+      "Life Transitions",
+      "Peer Relationships",
+      "Relationship Issues",
+      "Self Esteem",
+      "Spirituality",
+      "Stress",
+      "Trauma and PTSD",
+      "Women's Issues"
+    ],
+    "modailities": [],
+    "payment_methods": [
+      "ACH Bank transfer",
+      "American Express",
+      "Cash",
+      "Check",
+      "Discover",
+      "Health Savings Account",
+      "Mastercard",
+      "Paypal",
+      "Venmo",
+      "Visa",
+      "Zelle"
+    ],
+    "treatment_orientation": [
+      "Cognitive Behavioral (CBT)",
+      "Emotionally Focused",
+      "Family Systems",
+      "Interpersonal",
+      "Person-Centered",
+      "Positive Psychology",
+      "Strength-Based"
+    ]
+  },
+  {
+    "full_name": "Karly Worth",
+    "name": {
+      "title": "",
+      "first": "Karly",
+      "last": "Worth"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15304548443",
+    "pronouns": "She/Her/Hers",
+    "location": {
+      "line1": "2062 John Jones Rd.",
+      "line2": "Suite 140",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5635789,
+      "lng": -121.7690755
+    },
+    "education": {
+      "school": "Northwestern University",
+      "graduation_year": 0,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 120,
+      "couple": 120
+    },
+    "paragraph_descriptions": [
+      "I enjoy working with motivated and ambitious couples and individuals who are willing to put in the time and effort that it takes to work on themselves. I believe that starting therapy takes courage; it shows that a person wants more for themselves, their relationship, and their partner. You may have struggled with expressing your needs or advocating for yourself in the past – I can help you understand your needs more and learn to set boundaries when stress feels unbearable.If you feel disconnected from yourself or your partner, I will guide you towards establishing a deeper connection and level of understanding. I work with clients that want to dig deeper into the core of who they are in order to live their lives more authentically.I lead with gentle guidance and an understanding of the courage and vulnerability it takes to come to therapy. I hope to guide you on your journey towards self-love and compassion. I have experience working with couples and individuals of all identities and backgrounds. Contact me to schedule a free consultation."
+    ],
+    "age_focus": [
+      "Teen",
+      "Adults"
+    ],
+    "issues": [
+      "ADHD",
+      "Anger Management",
+      "Anxiety",
+      "Behavioral Issues",
+      "Bipolar Disorder",
+      "Career Counseling",
+      "Codependency",
+      "Coping Skills",
+      "Depression",
+      "Divorce",
+      "Family Conflict",
+      "Grief",
+      "Infidelity",
+      "Life Coaching",
+      "Life Transitions",
+      "Marital and Premarital",
+      "Peer Relationships",
+      "Relationship Issues",
+      "Self Esteem",
+      "Sleep or Insomnia",
+      "Stress",
+      "Substance Use",
+      "Suicidal Ideation",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals",
+      "Couples"
+    ],
+    "payment_methods": [
+      "American Express",
+      "Cash",
+      "Check",
+      "Discover",
+      "Mastercard",
+      "Visa"
+    ],
+    "treatment_orientation": []
+  },
+  {
+    "full_name": "Carol LaPerle",
+    "name": {
+      "title": "Mrs.",
+      "first": "Carol",
+      "last": "LaPerle"
+    },
+    "accepting_new_patients": false,
+    "appointments": {
+      "online": false,
+      "in_person": false
+    },
+    "phone": "+15303770756",
+    "pronouns": "She/Her/Hers",
+    "location": {
+      "line1": "423 F Street, Suite 106",
+      "line2": "",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.546698,
+      "lng": -121.741062
+    },
+    "education": {
+      "school": "College of Notre Dame",
+      "graduation_year": 1994,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 170,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "Does your son or daughter seem unhappy, worried or frightened? Do they frequently get into trouble at school? Has there been a shift in their behavior that concerns you? Do they have difficulty making or maintaining friendships?  Do they act mean, have angry outbursts or act aggressively because they cannot control their actions? Are they restless or have difficulty concentrating?  These are just some of the problems I assist children, adolescents and their families in overcoming. Call me and we can talk further.  I also work with adults with anxiety, parenting challenges, or those who have struggled with trauma.I have 30 years of clinical experience in working with children, adolescents, and families experiencing a wide variety of psychological, behavioral, academic and relational problems. I have specialized training in EMDR, art therapy and biofeedback. I find these strategies to be extremely helpful for my clients.In my Davis practice, I create a safe, caring and supportive environment which fosters growth and change. I provide a comfortable space and use humor in my work when appropriate. Please give me a call and we can talk to see how I can be of help to you or your family."
+    ],
+    "age_focus": [
+      "Preteen",
+      "Teen",
+      "Adults"
+    ],
+    "issues": [
+      "ADHD",
+      "Adoption",
+      "Anger Management",
+      "Anxiety",
+      "Asperger's Syndrome",
+      "Behavioral Issues",
+      "Child",
+      "Coping Skills",
+      "Divorce",
+      "Family Conflict",
+      "Grief",
+      "Internet Addiction",
+      "Life Transitions",
+      "Obsessive-Compulsive (OCD)",
+      "Parenting",
+      "Peer Relationships",
+      "Relationship Issues",
+      "School Issues",
+      "Self Esteem",
+      "Sexual Abuse",
+      "Sleep or Insomnia",
+      "Stress",
+      "Trauma and PTSD",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check",
+      "Health Savings Account",
+      "Mastercard",
+      "Visa"
+    ],
+    "treatment_orientation": [
+      "Art Therapy",
+      "Biofeedback",
+      "Cognitive Behavioral (CBT)",
+      "Eclectic",
+      "EMDR",
+      "Expressive Arts",
+      "Humanistic",
+      "Certified Biofeedback Clinician",
+      "Registered Art Therapist",
+      "Person-Centered",
+      "Play Therapy",
+      "Relational",
+      "Sandplay",
+      "Trauma Focused"
+    ]
+  },
+  {
+    "full_name": "Lee Ockenden",
+    "name": {
+      "title": "Mr.",
+      "first": "Lee",
+      "last": "Ockenden"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15306459211",
+    "pronouns": "",
+    "location": {
+      "line1": "105 E St",
+      "line2": "Suite 2E",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5423402,
+      "lng": -121.7409909
+    },
+    "education": {
+      "school": "Hope International University",
+      "graduation_year": 1998,
+      "years_in_practice": 25
+    },
+    "fees": {
+      "individual": 180,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "Over the last two decades my clientele has changed along with my experience, skill acquisition and personal life.  First as a clinician, then business owner, family man and student of life and living, I have been fortunate to have a career that reflects my own life.  Peek moments, so many blessings, long trials and struggles and big losses have rounded the edges of once sharp ideals and brought a humble gratitude for the souls I've met in my office.  While I  have a solid grasp of several powerful treatment modalities, my goal first is to be a good human to those who seek me out.  I'm a source of grounding and direction for those in crisis/process.  I work with those who are burdened by the responsibility of being in service of others, the passion they followed and were betrayed by.  I enjoy working with those who confuse 'selflessness' with total sacrifice of the 'self'.  I work with those with a strong work ethic and big hearts.If you are reading this, I'm going to assume your'e, at the same time, resourceful and, a bit lost in life.  I've been there.  We both still have a lot to learn.  I know you're taking a big risk on top of everything else that's going on with you and yours...that's how healing begins.  Thanks for considering what's best for you.  Lee"
+    ],
+    "age_focus": [
+      "Teen",
+      "Adults",
+      "Elders (65+)"
+    ],
+    "issues": [
+      "ADHD",
+      "Anger Management",
+      "Anxiety",
+      "Career Counseling",
+      "Depression",
+      "Divorce",
+      "Family Conflict",
+      "Grief",
+      "Infidelity",
+      "Life Coaching",
+      "Life Transitions",
+      "Marital and Premarital",
+      "Men's Issues",
+      "First Responder Dynamics/Issues",
+      "Vocational Re-Assessment",
+      "Parenting",
+      "Relationship Issues",
+      "Sleep or Insomnia",
+      "Spirituality",
+      "Trauma and PTSD"
+    ],
+    "modailities": [
+      "Individuals",
+      "Couples",
+      "Family"
+    ],
+    "payment_methods": [
+      "Check",
+      "Discover",
+      "Health Savings Account",
+      "Mastercard",
+      "Paypal",
+      "Visa"
+    ],
+    "treatment_orientation": [
+      "Attachment-based",
+      "Coaching",
+      "Cognitive Behavioral (CBT)",
+      "EMDR",
+      "Emotionally Focused",
+      "Existential",
+      "Family / Marital",
+      "Family Systems",
+      "Narrative",
+      "Neuro-Linguistic (NLP)",
+      "Consultation",
+      "Mindfulness",
+      "Person-Centered",
+      "Relational",
+      "Solution Focused Brief (SFBT)",
+      "Somatic",
+      "Trauma Focused"
+    ]
+  },
+  {
+    "full_name": "Amy Yockus Hartman",
+    "name": {
+      "title": "Ms.",
+      "first": "Amy",
+      "last": "Yockus Hartman"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15302366877",
+    "pronouns": "She/Her/Hers",
+    "location": {
+      "line1": "105 E Street #2e",
+      "line2": null,
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5423402,
+      "lng": -121.7409909
+    },
+    "education": {},
+    "fees": {
+      "individual": 160,
+      "couple": 180
+    },
+    "paragraph_descriptions": [
+      "Have anxious thoughts become overwhelming and led you to doubt yourself and your decisions? Maybe it’s tough to just get out of a bed in the morning, or you just keep pushing and striving, but have a hard time accessing a sense of fulfillment and peace? Maybe you feel like you’re always giving to and pleasing others, but don’t ever feel nourished and “filled up” yourself?I offer supportive, practical, and gentle guidance to help you move through challenging emotions and major life transitions in order to come back to yourself, a felt sense of your body, and your own deep knowing. I work with adults, couples, and children, and would be honored to meet you where you are on your journey.You have a natural blueprint of health, wholeness, and wellness that is always available to you. You also possess an innate capacity to heal, and to go through change and transition with ease. As a therapist, I’m here to help you tap into your natural blueprint of health, your own inner guidance and your core, embodied self to reach your ideal life vision."
+    ],
+    "age_focus": [
+      "Toddler",
+      "Children (6 to 10)",
+      "Preteen",
+      "Teen",
+      "Adults",
+      "Elders (65+)"
+    ],
+    "issues": [
+      "Anxiety",
+      "Career Counseling",
+      "Depression",
+      "Grief",
+      "Life Coaching",
+      "Life Transitions",
+      "Relationship Issues",
+      "Self Esteem",
+      "Sleep or Insomnia",
+      "Spirituality",
+      "Stress",
+      "Trauma and PTSD"
+    ],
+    "modailities": [],
+    "payment_methods": [],
+    "treatment_orientation": [
+      "Coaching",
+      "Cognitive Behavioral (CBT)",
+      "Cognitive Processing (CPT)",
+      "Family / Marital",
+      "Feminist",
+      "Humanistic",
+      "Integrative",
+      "Mindfulness-Based (MBCT)",
+      "Somatic",
+      "Trauma Focused"
+    ]
+  },
+  {
+    "full_name": "Diana Hirning-Johnson",
+    "name": {
+      "title": "",
+      "first": "Diana",
+      "last": "Hirning-Johnson"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15306658615",
+    "pronouns": "",
+    "location": {
+      "line1": "719 2nd Street, Suite 16",
+      "line2": "",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.543924,
+      "lng": -121.740152
+    },
+    "education": {
+      "school": "California State University, Sacramento",
+      "graduation_year": 2000,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 160,
+      "couple": 160
+    },
+    "paragraph_descriptions": [
+      "Are you or your child/teen or marriage feeling strained or overwhelmed? I have over 20 years of experience working with individuals and families struggling with anxiety, depression, trauma, behavioral and relationship issues, including family blending and coparenting. It is possible to achieve symptom relief, behavior change and to promote passion, meaning, and successful relationships.  Areas I focus on include children/teens, trauma, special needs or illness, parenting, and divorce (supporting parents and/or children). I am passionate to help clients witness and live their preferred selves and relationships.I am committed to partnering with each client to provide the most effective interventions for their lives.  My training includes CBT, EFT, DBT, Daring Way(tm), family systems, Brainspotting,  hypnosis, mediation, co-parenting, parenting, play therapies.  I also provide Collaborative Divorce services in the roles of Divorce Coach and Child Specialist.I am warm, compassionate, enthusiastic and when appropriate, will bring a sense of fun to my sessions. In my office or over virtual platform we will laugh and bond as we work.  I am dedicated to tailoring our work to your needs. While life is not back to normal, it is my hope to support your resilience and encourage your unique possibilities."
+    ],
+    "age_focus": [
+      "Toddler",
+      "Children (6 to 10)",
+      "Preteen",
+      "Teen",
+      "Adults"
+    ],
+    "issues": [
+      "ADHD",
+      "Anxiety",
+      "Autism",
+      "Behavioral Issues",
+      "Child",
+      "Depression",
+      "Divorce",
+      "Family Conflict",
+      "Grief",
+      "Marital and Premarital",
+      "Sensory Processing Disorder, Sports",
+      "Parenting",
+      "Relationship Issues",
+      "Self Esteem",
+      "Trauma and PTSD"
+    ],
+    "modailities": [
+      "Individuals",
+      "Couples",
+      "Family"
+    ],
+    "payment_methods": [
+      "American Express",
+      "Cash",
+      "Check",
+      "Discover",
+      "Health Savings Account",
+      "Mastercard",
+      "Visa"
+    ],
+    "treatment_orientation": [
+      "Attachment-based",
+      "Brainspotting",
+      "Coaching",
+      "Cognitive Behavioral (CBT)",
+      "Emotionally Focused",
+      "Family / Marital",
+      "Family Systems",
+      "Gestalt",
+      "Hypnotherapy",
+      "Mindfulness-Based (MBCT)",
+      "Coparenting",
+      "Shared Parenting Support Program",
+      "Play Therapy",
+      "Sandplay",
+      "Trauma Focused"
+    ]
+  },
+  {
+    "full_name": "Lin Colonel",
+    "name": {
+      "title": "",
+      "first": "Lin",
+      "last": "Colonel"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15304606614",
+    "pronouns": "",
+    "location": {
+      "line1": "1627 Oak Avenue",
+      "line2": "Suite C",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5589093,
+      "lng": -121.7526274
+    },
+    "education": {
+      "school": "Santa Clara University",
+      "graduation_year": 0,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 200,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "There's no better time than now to be your best self. I am here to help you reach your fullest potential. Let's journey together in a safe and non-judgmental relationship, where you can nurture and develop ways to live authentically with a sense of peace, presence, and dignity. In this collaborative process we will identify and establish ways for you to achieve your goals. Every client is truly unique; therefore I use an approach that is tailored to meet your individual needs. This may include techniques from Cognitive Behavioral therapy, mindfulness, and motivational coaching.The types of clients I typically work with range from adolescents to adults who are looking to find more personal or professional clarity. I've helped clients to achieve goals such as resolving relationship stress, enhancing school performance, relieving social anxiety, overcoming depression, coping with family issues and much more."
+    ],
+    "age_focus": [
+      "Teen",
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Career Counseling",
+      "Child",
+      "Chronic Pain",
+      "Codependency",
+      "Coping Skills",
+      "Depression",
+      "Dual Diagnosis",
+      "Emotional Disturbance",
+      "Family Conflict",
+      "Grief",
+      "Life Coaching",
+      "Life Transitions",
+      "Medication Management",
+      "Obsessive-Compulsive (OCD)",
+      "Peer Relationships",
+      "Pregnancy, Prenatal, Postpartum",
+      "Racial Identity",
+      "Relationship Issues",
+      "School Issues",
+      "Self Esteem",
+      "Sleep or Insomnia",
+      "Spirituality",
+      "Stress",
+      "Trauma and PTSD",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals",
+      "Family",
+      "Group"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check"
+    ],
+    "treatment_orientation": [
+      "Cognitive Behavioral (CBT)",
+      "Culturally Sensitive",
+      "Humanistic",
+      "Integrative",
+      "Mindfulness-Based (MBCT)",
+      "Motivational Interviewing"
+    ]
+  },
+  {
+    "full_name": "Christine Shellhammer",
+    "name": {
+      "title": "Ms.",
+      "first": "Christine",
+      "last": "Shellhammer"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": false
+    },
+    "phone": "+15303040552",
+    "pronouns": "",
+    "location": {
+      "line1": "433 F Street",
+      "line2": "",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5469538,
+      "lng": -121.7412812
+    },
+    "education": {
+      "school": "California State University, Sacramento",
+      "graduation_year": 1993,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 140,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "I believe that we all have the ability to grow and change and sometimes we need help in order to do so. The therapeutic relationship can be a place for connection, healing, insight  and acceptance.I have over 25  years of training and experience in treating female and male survivors of sexual abuse, domestic violence and childhood abuse. I also specialize in mood and anxiety disorders, relationship issues, and LGBTQ issues. I am trained in EMDR and utilize it when appropriate."
+    ],
+    "age_focus": [
+      "Teen",
+      "Adults",
+      "Elders (65+)"
+    ],
+    "issues": [
+      "Alcohol Use",
+      "Anxiety",
+      "Bipolar Disorder",
+      "Chronic Illness",
+      "Chronic Pain",
+      "Codependency",
+      "Coping Skills",
+      "Depression",
+      "Divorce",
+      "Domestic Abuse ",
+      "Domestic Violence",
+      "Grief",
+      "Infidelity",
+      "Life Transitions",
+      "Gender Dysphoria",
+      "Peer Relationships",
+      "Relationship Issues",
+      "School Issues",
+      "Self Esteem",
+      "Self-Harming",
+      "Sexual Abuse",
+      "Stress",
+      "Substance Use",
+      "Transgender",
+      "Trauma and PTSD",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check"
+    ],
+    "treatment_orientation": [
+      "Attachment-based",
+      "Compassion Focused",
+      "Culturally Sensitive",
+      "Eclectic",
+      "EMDR",
+      "Family Systems",
+      "Humanistic",
+      "Internal Family Systems (IFS)",
+      "Mindfulness-Based (MBCT)",
+      "Multicultural",
+      "Person-Centered",
+      "Psychodynamic",
+      "Relational",
+      "Somatic",
+      "Strength-Based",
+      "Trauma Focused"
+    ]
+  },
+  {
+    "full_name": "Mindpath College Health, Davis",
+    "name": {
+      "title": "",
+      "first": "Mindpath",
+      "last": "College Health"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15304606781",
+    "pronouns": "",
+    "location": {
+      "line1": null,
+      "line2": null,
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": null,
+      "lng": null
+    },
+    "education": {},
+    "fees": {
+      "individual": 0,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "Mindpath College Health is a leading provider of outpatient, university mental health support. We provide individual, couples, and group therapy, as well as psychiatry and medication management. We specialize in providing high-quality mental health services to university students, faculty, and staff, as well as the greater community. Our office is conveniently located near major universities and available via telehealth, and our therapists are trained across a variety of issues and modalities. We are committed to providing a safe, supportive environment and a positive therapeutic experience.Testimonials: \"This was a healing experience for me on many levels.\" - \"Safe enough to talk about things that I would not normally discuss even with my closest friends or family\" - \"Made a huge impact on my life and overall well-being. I would recommend it to everybody I know.\" We consider it a great responsibility and privilege to help meet you needs. Our mission is to provide a safe, supportive environment in which you receive quality, long-term and consistent mental health care that is specialized, highly accessible and affordable, and culturally sensitive. Call to learn more and make an appointment!"
+    ],
+    "age_focus": [
+      "Teen",
+      "Adults"
+    ],
+    "issues": [
+      "Addiction",
+      "ADHD",
+      "Alcohol Use",
+      "Anger Management",
+      "Antisocial Personality",
+      "Anxiety",
+      "Asperger's Syndrome",
+      "Autism",
+      "Behavioral Issues",
+      "Bipolar Disorder",
+      "Borderline Personality (BPD)",
+      "Career Counseling",
+      "Chronic Impulsivity",
+      "Codependency",
+      "Coping Skills",
+      "Depression",
+      "Domestic Abuse ",
+      "Domestic Violence",
+      "Drug Abuse",
+      "Dual Diagnosis",
+      "Eating Disorders",
+      "Emotional Disturbance",
+      "Family Conflict",
+      "Gambling",
+      "Grief",
+      "Internet Addiction",
+      "Life Transitions",
+      "Medication Management",
+      "Men's Issues",
+      "Narcissistic Personality (NPD)",
+      "Obsessive-Compulsive (OCD)",
+      "Oppositional Defiance (ODD)",
+      "Psychiatry",
+      "College Student Issues",
+      "Peer Relationships",
+      "Racial Identity",
+      "Relationship Issues",
+      "School Issues",
+      "Self Esteem",
+      "Self-Harming",
+      "Sex Therapy",
+      "Sexual Abuse",
+      "Sexual Addiction",
+      "Sleep or Insomnia",
+      "Spirituality",
+      "Stress",
+      "Substance Use",
+      "Suicidal Ideation",
+      "Teen Violence",
+      "Transgender",
+      "Trauma and PTSD",
+      "Video Game Addiction",
+      "Weight Loss",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check",
+      "Mastercard",
+      "Visa"
+    ],
+    "treatment_orientation": [
+      "Art Therapy",
+      "Attachment-based",
+      "Cognitive Behavioral (CBT)",
+      "Dialectical Behavior (DBT)",
+      "Eclectic",
+      "Existential",
+      "Gestalt",
+      "Humanistic",
+      "Jungian",
+      "Motivational Interviewing",
+      "Multicultural",
+      "Narrative",
+      "Psychodynamic",
+      "Relational",
+      "Trauma Focused"
+    ]
+  },
+  {
+    "full_name": "Kristin Rokop",
+    "name": {
+      "title": "Dr.",
+      "first": "Kristin",
+      "last": "Rokop"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": false,
+      "in_person": true
+    },
+    "phone": "+15303025548",
+    "pronouns": "",
+    "location": {
+      "line1": "719 Second Street",
+      "line2": "Suite 15",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5435886,
+      "lng": -121.7391947
+    },
+    "education": {
+      "school": "California School of Professional Psychology",
+      "graduation_year": 2001,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 120,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "I have many years' experience in and a passion for treating infants, toddlers, preschoolers, children and adolescents and their families dealing with a variety of issues including the following: adjustment difficulties, trauma, divorce, attachment difficulties, social problems, depression, anxiety, behavioral problems, and developmental delays. I can provide psychological evaluations when needed to help identify areas of difficulty and of strength, and to guide treatment direction. I also provide psychotherapy to children, adolescents and their families.While working from an attachment perspective and a relational focus, I also incorporate strategies from treatment modalities such as cognitive behavioral therapy and family therapy that have proven effective in addressing certain symptoms.As parents are central to their children's lives, it is important to me to involve parents actively in their child's treatment while at the same time maintaining the privacy needed by some adolescents in order to progress in treatment."
+    ],
+    "age_focus": [
+      "Toddler",
+      "Children (6 to 10)",
+      "Preteen",
+      "Teen"
+    ],
+    "issues": [
+      "ADHD",
+      "Adoption",
+      "Anxiety",
+      "Behavioral Issues",
+      "Child",
+      "Depression",
+      "Developmental Disorders",
+      "Divorce",
+      "Emotional Disturbance",
+      "Grief",
+      "Intellectual Disability",
+      "Obsessive-Compulsive (OCD)",
+      "Oppositional Defiance (ODD)",
+      "Parenting",
+      "Relationship Issues",
+      "Self Esteem",
+      "Testing and Evaluation",
+      "Trauma and PTSD"
+    ],
+    "modailities": [
+      "Individuals",
+      "Family"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check"
+    ],
+    "treatment_orientation": [
+      "Family / Marital",
+      "Play Therapy",
+      "Psychological Testing and Evaluation",
+      "Relational"
+    ]
+  },
+  {
+    "full_name": "Christina J. Platenkamp",
+    "name": {
+      "title": "",
+      "first": "Christina",
+      "last": "Platenkamp"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": false
+    },
+    "phone": "+15308533436",
+    "pronouns": "",
+    "location": {
+      "line1": null,
+      "line2": null,
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95617",
+      "country_code": "US",
+      "lat": null,
+      "lng": null
+    },
+    "education": {
+      "school": "Lewis & Clark Graduate School of Education and Counseling",
+      "graduation_year": 2021,
+      "years_in_practice": 3
+    },
+    "fees": {
+      "individual": 145,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "It may seem that the experiences you have been through, or maybe the ways you’ve been dealing with your emotional pain, are too embarrassing, too shameful, too big. You may be asking yourself: “Will anyone understand?” Or even: “Could anyone accept me if they really knew?” It's so important that you know that you are not alone. Though the particularities of your experiences are uniquely yours, this human life is full of complex pain and sorrows just like what you are struggling with now. It is possible to find a way. Through curious exploration, you may develop a deeper understanding of your internal processes and how you got here.My style is collaborative, relational, and strengths-based. It is important to me that you feel accepted, heard, and understood in your experience. My hope is to support you in gaining the insight, skills, courage, and confidence to take steps toward healing and more fulfillment in your life.Finding the right fit with a therapist is critical. I work with adults and teens ages 16 and up. For more information about me and my background, please see my web page at www.ThreeFigsCounseling.com. Reach out to schedule a free, 15-minute consultation."
+    ],
+    "age_focus": [
+      "Teen",
+      "Adults"
+    ],
+    "issues": [
+      "Addiction",
+      "Anxiety",
+      "Chronic Illness",
+      "Chronic Pain",
+      "Depression",
+      "Grief",
+      "Life Transitions",
+      "Relationship Issues",
+      "Substance Use",
+      "Trauma and PTSD"
+    ],
+    "modailities": [
+      "Individuals"
+    ],
+    "payment_methods": [],
+    "treatment_orientation": [
+      "Existential",
+      "Humanistic",
+      "Motivational Interviewing",
+      "Narrative",
+      "Person-Centered",
+      "Relational",
+      "Strength-Based"
+    ]
+  },
+  {
+    "full_name": "Anni M Schairer",
+    "name": {
+      "title": "Ms.",
+      "first": "Anni",
+      "last": "Schairer"
+    },
+    "accepting_new_patients": false,
+    "appointments": {
+      "online": false,
+      "in_person": false
+    },
+    "phone": "+15303412593",
+    "pronouns": "",
+    "location": {
+      "line1": "1260 Lake Blvd",
+      "line2": "#243",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5539717,
+      "lng": -121.7868436
+    },
+    "education": {},
+    "fees": {
+      "individual": 100,
+      "couple": 100
+    },
+    "paragraph_descriptions": [
+      "I work with adults of all genders and sexualities in individual, couple, and group settings. I believe that any symptoms or behaviors currently bothering you served a purpose at one time; if they have ceased to be useful, together we can find ways to reduce or eliminate them. I draw most heavily from somatic, cognitive-behavioral, narrative and solution-focused therapies. I specialize in brief, focused work but can engage in longer term work, if this is more appropriate for your concerns.My specialties are: Trauma, Sexual Violence, Domestic Violence, Anxiety & Depression, and Sexuality. I offer a welcoming, supportive therapeutic environment for adolescents, adults and couples of all genders and sexualities. Together, we can make sense of your experiences and discover what might help you to move forward.I've worked in mental health for more than 15 years: as a hotline volunteer, advocate, family educator, crisis counselor and psychotherapist. I've worked in schools, rape crisis centers, shelters, and family service agencies. I've offered training in sexual violence treatment, PTSD, secondary trauma, and work-life balance."
+    ],
+    "age_focus": [
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Codependency",
+      "Divorce",
+      "Domestic Abuse ",
+      "Domestic Violence",
+      "Family Conflict",
+      "Infidelity",
+      "Marital and Premarital",
+      "Relationship Issues",
+      "Sex Therapy",
+      "Sexual Abuse",
+      "Transgender",
+      "Trauma and PTSD",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals",
+      "Couples",
+      "Group"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check",
+      "Discover",
+      "Mastercard",
+      "Visa"
+    ],
+    "treatment_orientation": [
+      "Cognitive Behavioral (CBT)",
+      "Family / Marital",
+      "Feminist",
+      "Mindfulness-Based (MBCT)",
+      "Narrative",
+      "Solution Focused Brief (SFBT)",
+      "Strength-Based",
+      "Trauma Focused"
+    ]
+  },
+  {
+    "full_name": "Rebecca L Sawyer",
+    "name": {
+      "title": "",
+      "first": "Rebecca",
+      "last": "Sawyer"
+    },
+    "accepting_new_patients": false,
+    "appointments": {
+      "online": false,
+      "in_person": false
+    },
+    "phone": "+15304954091",
+    "pronouns": "",
+    "location": {
+      "line1": "621 Fourth Street - Cooper House",
+      "line2": "",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5449065,
+      "lng": -121.7405167
+    },
+    "education": {
+      "school": "University of Colorado Denver",
+      "graduation_year": 2003,
+      "years_in_practice": 20
+    },
+    "fees": {
+      "individual": 150,
+      "couple": 180
+    },
+    "paragraph_descriptions": [
+      "I partner with clients to improve relationship satisfaction;  to understand and change patterns; to reclaim a sense of well-being.  Stress and anxiety are often at play.  Many clients notice that childhood wounds continue to impact their thoughts, feelings and behaviors.  I listen with empathy and compassion and work collaboratively - to help you find growth, new insight and enhanced life satisfaction. I specialize in helping folks with inner turmoil, family conflict, relationship challenges, depression, stress, anxiety, grief and loss, life transitions, and esteem issues.  We work at your pace, mindfully.   I am committed to helping you find relief - -  and meaning - -  in the uniqueness of your life and experiences.In practice 17 years, I have previously worked at the UCD Employee Assistance Program, Yolo Family Service Agency and in Private Practice.  I have experience in research, academia, service, and parenting - all of which inform my work.  I would be happy to talk with you by phone to see if we might be a good fit to work together."
+    ],
+    "age_focus": [
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Coping Skills",
+      "Depression",
+      "Emotional Disturbance",
+      "Family Conflict",
+      "Grief",
+      "Support to therapists in training",
+      "Parenting",
+      "Peer Relationships",
+      "Relationship Issues",
+      "Self Esteem",
+      "Spirituality",
+      "Stress"
+    ],
+    "modailities": [
+      "Individuals",
+      "Couples",
+      "Group"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check",
+      "Health Savings Account",
+      "Mastercard",
+      "Visa"
+    ],
+    "treatment_orientation": [
+      "Attachment-based",
+      "Existential",
+      "Family Systems",
+      "Integrative",
+      "Interpersonal",
+      "Psychodynamic",
+      "Relational"
+    ]
+  },
+  {
+    "full_name": "Ashlynne Neil",
+    "name": {
+      "title": "",
+      "first": "Ashlynne",
+      "last": "Neil"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15302078745",
+    "pronouns": "She/Her/Hers",
+    "location": {
+      "line1": "621 4th Street",
+      "line2": "Suite 6",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5461747,
+      "lng": -121.7410745
+    },
+    "education": {
+      "school": "California State University, Chico",
+      "graduation_year": 2019,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 165,
+      "couple": 175
+    },
+    "paragraph_descriptions": [
+      "As humans we possess the incredible capacity to collaborate with, depend upon, and connect with others. These innate skills enhance our ability to cope under harsh life circumstances. Asking for help is the first step to enhancing your own abilities and skills of connection, healing, growth, self-awareness and so much more. If you are ready to take this step and team up with another to improve your life, send me an email or give me a call!In my Northern California practice I serve teens, adults, and couples.  I specialize in addiction, relationship issues, trauma, depression, anxiety, and anger management.  Allow me to support you in achieving holistic health and healing where your mind, body and spirit work together in harmony, and no single aspect of who you are is left un-nurtured. My therapy style is client-centered, strengths-based and rooted in compassion. I am committed to supporting you in your own individual journey while offering a safe, consistent, and judgment-free environment. Together, we can address some of the issues that may be currently weighing you down, or holding you back from living a life you love."
+    ],
+    "age_focus": [
+      "Teen",
+      "Adults"
+    ],
+    "issues": [
+      "Addiction",
+      "Anxiety",
+      "Coping Skills",
+      "Depression",
+      "Domestic Abuse ",
+      "Domestic Violence",
+      "Family Conflict",
+      "Grief",
+      "Life Transitions",
+      "Relationship Issues",
+      "Self Esteem",
+      "Substance Use",
+      "Trauma and PTSD",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals",
+      "Couples",
+      "Group"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check"
+    ],
+    "treatment_orientation": [
+      "Acceptance and Commitment (ACT)",
+      "Attachment-based",
+      "Cognitive Behavioral (CBT)",
+      "Dialectical Behavior (DBT)",
+      "Integrative",
+      "Narrative",
+      "Person-Centered",
+      "Strength-Based"
+    ]
+  },
+  {
+    "full_name": "Laili McGrew",
+    "name": {
+      "title": "",
+      "first": "Laili",
+      "last": "McGrew"
+    },
+    "accepting_new_patients": false,
+    "appointments": {
+      "online": false,
+      "in_person": false
+    },
+    "phone": "+15307633995",
+    "pronouns": "She/Her/Hers",
+    "location": {
+      "line1": "1747 Oak Ave.",
+      "line2": "",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5593815,
+      "lng": -121.753015
+    },
+    "education": {
+      "school": "Sacramento State University",
+      "graduation_year": 0,
+      "years_in_practice": 33
+    },
+    "fees": {
+      "individual": 150,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "I believe that each one of us has a genuine need to feel valued and connected. I also believe that connection is the foundation in our lives.  We all need to find our purpose and find a place where we can belong to something bigger than ourselves. Sometimes our inability to connect with others can leave us feeling empty, hopeless or insecure. It can cause us to isolate, tolerate unhealthy relationships, abuse substances or lose our direction. When we learn to build healthy connections and find our purpose, we are more likely to experience hope and fulfillment. I am a licensed clinical social worker with 30+ years of experience.Many of my clients struggle with relationships, life transitions, feelings of isolation, school demands, perfectionism, career decisions, parenting, body image, depression, anxiety, family issues, trauma, sexual orientation,  and suicidal ideation. I am trained in Attachment Focused EMDR which helps people who have experienced any type of life trauma.Therapy takes courage and strength.  We all struggle at times and deserve to feel heard and understood.  I strive to create a safe, comfortable environment where trust and connection are the foundation of the therapeutic relationship. I respect each client's story and process in order to support change."
+    ],
+    "age_focus": [
+      "Adults"
+    ],
+    "issues": [
+      "Alcohol Use",
+      "Anxiety",
+      "Bipolar Disorder",
+      "Coping Skills",
+      "Depression",
+      "Divorce",
+      "Emotional Disturbance",
+      "Family Conflict",
+      "Grief",
+      "Life Transitions",
+      "College issues",
+      "Parenting",
+      "Peer Relationships",
+      "Relationship Issues",
+      "School Issues",
+      "Self Esteem",
+      "Sexual Abuse",
+      "Sleep or Insomnia",
+      "Stress",
+      "Suicidal Ideation",
+      "Trauma and PTSD",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check"
+    ],
+    "treatment_orientation": [
+      "Acceptance and Commitment (ACT)",
+      "Attachment-based",
+      "Compassion Focused",
+      "Culturally Sensitive",
+      "Eclectic",
+      "EMDR",
+      "Family Systems",
+      "Humanistic",
+      "Person-Centered",
+      "Psychodynamic",
+      "Relational"
+    ]
+  },
+  {
+    "full_name": "Jackie MacNear",
+    "name": {
+      "title": "Ms.",
+      "first": "Jackie",
+      "last": "MacNear"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15304510350",
+    "pronouns": "She/Her/Hers",
+    "location": {
+      "line1": "1627 Oak Avenue",
+      "line2": "Suite C",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5589093,
+      "lng": -121.7526274
+    },
+    "education": {
+      "school": "California Institute for Integral Studies",
+      "graduation_year": 2021,
+      "years_in_practice": 2
+    },
+    "fees": {
+      "individual": 120,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "As a fat, queer, neurodivergent disruptor of societal norms and systems, I hold a strength-based attachment focused framework that values and celebrates all genders, sexualities, bodies, ethnicities, cultures, abilities, family structures, religions, and socio-economic locations. I see these intersectionalities as a beautiful tapestry of personal empowerments which can become the foundation from which we work collectively to identify, address and dismantle systems of oppression. I believe humans shouldn’t be pathologized in a society designed to keep people sick and stuck.I hold a safe, trauma informed,non-judgemental, inviting space where I will meet you where you are and we will work collaboratively to identify your strengths, values, goals and oppurtunities for growth.  I draw from an eclectic mix of theories (Attachment, Trauma, Critical Race, Queer, Humanistic and Transpersonal) to meet your individual needs and style."
+    ],
+    "age_focus": [
+      "Children (6 to 10)",
+      "Preteen",
+      "Teen",
+      "Adults"
+    ],
+    "issues": [
+      "ADHD",
+      "Adoption",
+      "Anxiety",
+      "Autism",
+      "Bipolar Disorder",
+      "Chronic Illness",
+      "Chronic Pain",
+      "Codependency",
+      "Depression",
+      "Developmental Disorders",
+      "Domestic Violence",
+      "Education and Learning Disabilities",
+      "Family Conflict",
+      "Grief",
+      "Fat Positive",
+      "Sex Positive",
+      "Racial Identity",
+      "Relationship Issues",
+      "Sexual Abuse",
+      "Sleep or Insomnia",
+      "Spirituality",
+      "Substance Use",
+      "Suicidal Ideation",
+      "Transgender",
+      "Trauma and PTSD"
+    ],
+    "modailities": [],
+    "payment_methods": [],
+    "treatment_orientation": [
+      "Compassion Focused",
+      "Culturally Sensitive",
+      "Emotionally Focused",
+      "Family Systems",
+      "Feminist",
+      "Humanistic",
+      "Integrative",
+      "Internal Family Systems (IFS)",
+      "Interpersonal",
+      "Multicultural",
+      "Narrative",
+      "Person-Centered",
+      "Play Therapy",
+      "Relational",
+      "Solution Focused Brief (SFBT)",
+      "Somatic",
+      "Strength-Based",
+      "Transpersonal",
+      "Trauma Focused"
+    ]
+  },
+  {
+    "full_name": "Jeannie Leilani Yeager",
+    "name": {
+      "title": "Ms.",
+      "first": "Jeannie",
+      "last": "Yeager"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15306257810",
+    "pronouns": "",
+    "location": {
+      "line1": "133 D Street Suit F",
+      "line2": null,
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5427746,
+      "lng": -121.7422935
+    },
+    "education": {},
+    "fees": {
+      "individual": 135,
+      "couple": 150
+    },
+    "paragraph_descriptions": [
+      "Each of us walks our own path in life and that experience is unique even in its similarities. In this walk of life, who you are and what you experience is a creation of choices: how you respond to events, the people you spend time with, and the space you find yourself in at the moment. Within each one of us is the ability to create a new space that brings joy and life satisfaction.My goal is to help you create the life you want to live by providing you with the tools and techniques you can customize to fit where you are now and be able to use again as your life changes.My theoretical approach can vary based on the individual and what would work best for that person at that moment. If anything I've written speaks to you, reach out and I would love to start a new path with you."
+    ],
+    "age_focus": [],
+    "issues": [],
+    "modailities": [],
+    "payment_methods": [
+      "American Express",
+      "Cash",
+      "Check",
+      "Discover",
+      "Mastercard",
+      "Visa"
+    ],
+    "treatment_orientation": []
+  },
+  {
+    "full_name": "Cara Arndorfer",
+    "name": {
+      "title": "",
+      "first": "Cara",
+      "last": "Arndorfer"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": false,
+      "in_person": true
+    },
+    "phone": "+15305641761",
+    "pronouns": "",
+    "location": {
+      "line1": "129 E Street, Suite C3",
+      "line2": "",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5426809,
+      "lng": -121.7412075
+    },
+    "education": {
+      "school": "University of Oregon",
+      "graduation_year": 2009,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 0,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "Whether therapy is your first step toward change or one of the last options you've considered, getting the support you need takes courage and strength. Finding a good fit is an important step.\n\nMy approach to therapy is tailored to your needs. I'll provide a safe, non-judgmental, and honest atmosphere for expressing your concerns. I'll honor your lived experiences, values, and cultures while exploring your strengths and struggles. We'll collaborate to uncover your personal meaning, hopes for the future, and the tools that would best help you to cope with what's bothering you.We'll use our relationship to help you understand yourself and to build more satisfying relationships with yourself and others. While therapy can sometimes be a difficult and serious process, there are ways to incorporate creativity and humor, and we will definitely celebrate your successes.I work with adolescents & adults who experience a wide range of concerns. I have additional expertise in treating disordered eating and trauma. I also have expertise in working with people who identify as queer, bisexual, lesbian, gay, asexual, transgender, and/or genderqueer; experience gender dysphoria; are in gender transition."
+    ],
+    "age_focus": [
+      "Teen",
+      "Adults",
+      "Elders (65+)"
+    ],
+    "issues": [
+      "Anxiety",
+      "Child",
+      "Chronic Illness",
+      "Coping Skills",
+      "Depression",
+      "Domestic Abuse ",
+      "Domestic Violence",
+      "Eating Disorders",
+      "Emotional Disturbance",
+      "Family Conflict",
+      "Grief",
+      "Life Transitions",
+      "Cultural Identity/Multicultural",
+      "Non-monogamy/Polyamory",
+      "Peer Relationships",
+      "Racial Identity",
+      "Relationship Issues",
+      "Self Esteem",
+      "Self-Harming",
+      "Sexual Abuse",
+      "Sleep or Insomnia",
+      "Spirituality",
+      "Stress",
+      "Transgender",
+      "Trauma and PTSD",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals",
+      "Group"
+    ],
+    "payment_methods": [
+      "American Express",
+      "Cash",
+      "Check",
+      "Discover",
+      "Health Savings Account",
+      "Mastercard",
+      "Visa"
+    ],
+    "treatment_orientation": [
+      "Culturally Sensitive",
+      "Gestalt",
+      "Humanistic",
+      "Interpersonal",
+      "Multicultural",
+      "Relational",
+      "Somatic",
+      "Trauma Focused"
+    ]
+  },
+  {
+    "full_name": "Elizabeth Saft",
+    "name": {
+      "title": "Dr.",
+      "first": "Elizabeth",
+      "last": "Saft"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15307716858",
+    "pronouns": "",
+    "location": {
+      "line1": "1747 Oak Avenue",
+      "line2": "Suite 3",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.559929,
+      "lng": -121.752523
+    },
+    "education": {
+      "school": "Ph.D. Clinical Psychology, University of Virginia",
+      "graduation_year": 1994,
+      "years_in_practice": 34
+    },
+    "fees": {
+      "individual": 150,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "I am a Licensed Clinical Psychologist with over 25 years of experience. I completed my Ph.D. in clinical psychology of adults and children at the University of Virginia, including an internship at the University of Colorado Medical Center, and postdoctoral training at the Philadelphia Child Guidance Clinic, with a focus on family therapy and adolescence.  I work with adults and older adolescents on issues including depression, anxiety, loss, and relationship difficulties."
+    ],
+    "age_focus": [
+      "Teen",
+      "Adults",
+      "Elders (65+)"
+    ],
+    "issues": [
+      "Anxiety",
+      "Bipolar Disorder",
+      "Child",
+      "Depression",
+      "Emotional Disturbance",
+      "Family Conflict",
+      "Grief",
+      "Life Transitions",
+      "Consultation",
+      "Peer Relationships",
+      "Relationship Issues",
+      "Self Esteem",
+      "Stress",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals",
+      "Family"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check"
+    ],
+    "treatment_orientation": [
+      "Attachment-based",
+      "Culturally Sensitive",
+      "EMDR",
+      "Family Systems",
+      "Integrative",
+      "Interpersonal",
+      "Psychodynamic",
+      "Relational",
+      "Strength-Based"
+    ]
+  },
+  {
+    "full_name": "Arielle Hastings",
+    "name": {
+      "title": "",
+      "first": "Arielle",
+      "last": "Hastings"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": false,
+      "in_person": true
+    },
+    "phone": "+15304571986",
+    "pronouns": "",
+    "location": {
+      "line1": null,
+      "line2": null,
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": null,
+      "lng": null
+    },
+    "education": {
+      "school": "California Institute of Integral Studies",
+      "graduation_year": 0,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 140,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "I am offering in-person therapy only.                                                      Self doubt, lack of confidence, stuck-ness, and living through challenging daily symptoms and stressors can make it hard to access authenticity, zestfulness and your life's full potential. You are capable of healing, shifting and integrating negative experiences into something that can launch you forward and bring wisdom. I offer warm presence, encouraging easeful participation and inviting your creative spirit. You can unlock, embrace and expand your personal capacity for growth, authenticity, innovation, self-expression and positive impact.I bring playful curiosity and serve as a motivated witness. I encourage slow and steady sensing into connection of mind, body and soul. My intention is to help recognize and release attachment to relentless/unwanted thoughts, feelings and behaviors to make space for energetic aliveness. Movement and creative flow can help make sense of your inner world.I utilize an integrative therapeutic approach, including expressive arts interventions, somatic awareness, systems theories and existential influence. I have experience with youth/teens, young adults, parents, and those wanting to start a family. I am here as a witness to your own authentic revelations, readiness for healing, shifting and empowerment."
+    ],
+    "age_focus": [
+      "Children (6 to 10)",
+      "Preteen",
+      "Teen",
+      "Adults"
+    ],
+    "issues": [
+      "Career Counseling",
+      "Child",
+      "Coping Skills",
+      "Depression",
+      "Family Conflict",
+      "Grief",
+      "Infertility",
+      "Marital and Premarital",
+      "Adolescence and Young Adulthood",
+      "Life Changes, Grief, Dysregulation",
+      "Parenting",
+      "Peer Relationships",
+      "Pregnancy, Prenatal, Postpartum",
+      "Racial Identity",
+      "Relationship Issues",
+      "School Issues",
+      "Stress",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals",
+      "Couples",
+      "Family"
+    ],
+    "payment_methods": [
+      "American Express",
+      "Cash",
+      "Check",
+      "Discover",
+      "Mastercard",
+      "Venmo",
+      "Visa",
+      "Zelle"
+    ],
+    "treatment_orientation": [
+      "Art Therapy",
+      "Attachment-based",
+      "Coaching",
+      "Cognitive Behavioral (CBT)",
+      "Culturally Sensitive",
+      "Dance Movement Therapy",
+      "Existential",
+      "Expressive Arts",
+      "Family / Marital",
+      "Family Systems",
+      "Feminist",
+      "Gottman Method",
+      "Integrative",
+      "Jungian",
+      "Multicultural",
+      "Music Therapy",
+      "Narrative",
+      "Play Therapy",
+      "Somatic",
+      "Strength-Based"
+    ]
+  },
+  {
+    "full_name": "Lawrence Shweky",
+    "name": {
+      "title": "",
+      "first": "Lawrence",
+      "last": "Shweky"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15303413945",
+    "pronouns": "He/Him/His",
+    "location": {
+      "line1": "732 3rd Street",
+      "line2": "Suite A",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5447413,
+      "lng": -121.7396217
+    },
+    "education": {
+      "school": "New York University",
+      "graduation_year": 1992,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 175,
+      "couple": 175
+    },
+    "paragraph_descriptions": [
+      "Life is full of challenges, but challenges give us the opportunity to look at things in new ways, connect with others and find our inner strengths. My goal as a therapist is to help you in this process. We will work on identifying what you are experiencing, how you got there, where you want to go and what you need to achieve your goals. I strive to be both a focused listener and active participant in sessions, and to create a safe space where clients feel understood and respected. Through the therapy process, we develop a relationship that has the potential to be transformative and healing.  I am a therapist, supervisor, administrator and activist with extensive training in a variety of therapeutic approaches.  I've worked with teens, adults, couples and families for over 25 years in New York, San Francisco and the Sacramento/Davis region.As a Syrian-American and first-generation college student, I developed a passion for social change and educational reform. Through EMERGE (www.emergecenter4sel.org), I am working to expand the quality, range and accessibility of services for young people and other marginalized populations, such as people of color and LGBTQ individuals."
+    ],
+    "age_focus": [
+      "Preteen",
+      "Teen",
+      "Adults"
+    ],
+    "issues": [
+      "Addiction",
+      "ADHD",
+      "Alcohol Use",
+      "Anger Management",
+      "Anxiety",
+      "Behavioral Issues",
+      "Child",
+      "Depression",
+      "Divorce",
+      "Domestic Violence",
+      "Drug Abuse",
+      "Emotional Disturbance",
+      "Family Conflict",
+      "Grief",
+      "Infidelity",
+      "Internet Addiction",
+      "Narcissistic Personality (NPD)",
+      "Oppositional Defiance (ODD)",
+      "Parenting",
+      "Peer Relationships",
+      "Racial Identity",
+      "Relationship Issues",
+      "School Issues",
+      "Self-Harming",
+      "Sex Therapy",
+      "Sexual Abuse",
+      "Sexual Addiction",
+      "Sleep or Insomnia",
+      "Substance Use",
+      "Suicidal Ideation",
+      "Teen Violence",
+      "Transgender",
+      "Trauma and PTSD",
+      "Video Game Addiction"
+    ],
+    "modailities": [
+      "Individuals",
+      "Couples",
+      "Family"
+    ],
+    "payment_methods": [
+      "American Express",
+      "Cash",
+      "Check",
+      "Mastercard",
+      "Visa"
+    ],
+    "treatment_orientation": [
+      "Attachment-based",
+      "Clinical Supervision and Licensed Supervisors",
+      "Culturally Sensitive",
+      "Emotionally Focused",
+      "Existential",
+      "Family / Marital",
+      "Family Systems",
+      "Humanistic",
+      "Integrative",
+      "Interpersonal",
+      "Motivational Interviewing",
+      "Psychodynamic",
+      "Relational"
+    ]
+  },
+  {
+    "full_name": "Margaret (Maggi) Jeffrey",
+    "name": {
+      "title": "Ms.",
+      "first": "Margaret (Maggi)",
+      "last": "Jeffrey"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": false
+    },
+    "phone": "+15306524757",
+    "pronouns": "",
+    "location": {
+      "line1": null,
+      "line2": null,
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": null,
+      "lng": null
+    },
+    "education": {
+      "school": "California State University, Sacramento",
+      "graduation_year": 2002,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 130,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "Are you tired of trying to figure out how to deal with your feelings on your own? Not sure who to listen to? Thank you for visiting my site. I work with adults (18+) who are struggling with depression, anxiety, relationship problems, university challenges, both academic and social, and other difficult life events/transitions. My goal is to establish a positive and trusting connection with my clients while providing a supportive environment for the work we do together. I work collaboratively with my clients to find new ways of coping and managing difficult challenges that will ultimately lead to a more meaningful and productive life.In my practice I value having an integrative therapeutic approach to working with my clients. My perspective is primarily solution-focused and strengths-based while mostly utilizing cognitive-behavioral and mindfulness-based techniques. Having flexibility allows me to better meet the needs of my clients and their own unique situation.I have 30 plus years of experience providing counseling, case management, and consultation to clients and various agencies. My professional experiences prepared me well for the work I do as a therapist in private practice. I enjoy working with adults of all ages, including university students who are struggling with academic and social/relationship issues."
+    ],
+    "age_focus": [
+      "Adults",
+      "Elders (65+)"
+    ],
+    "issues": [
+      "ADHD",
+      "Alzheimer's",
+      "Anxiety",
+      "Chronic Illness",
+      "Codependency",
+      "Coping Skills",
+      "Depression",
+      "Divorce",
+      "Family Conflict",
+      "Grief",
+      "Infidelity",
+      "Life Transitions",
+      "Marital and Premarital",
+      "Obsessive-Compulsive (OCD)",
+      "University pressures (academic/social)",
+      "Peer Relationships",
+      "Relationship Issues",
+      "Self Esteem",
+      "Sexual Abuse",
+      "Sleep or Insomnia",
+      "Stress",
+      "Trauma and PTSD",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check",
+      "Health Savings Account"
+    ],
+    "treatment_orientation": [
+      "Attachment-based",
+      "Cognitive Behavioral (CBT)",
+      "Culturally Sensitive",
+      "Family Systems",
+      "Mindfulness-Based (MBCT)",
+      "Solution Focused Brief (SFBT)",
+      "Strength-Based"
+    ]
+  },
+  {
+    "full_name": "Cathy G Neuhauser",
+    "name": {
+      "title": "",
+      "first": "Cathy",
+      "last": "Neuhauser"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15307231438",
+    "pronouns": "",
+    "location": {
+      "line1": "523 G Street",
+      "line2": "Suite 3",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.548171,
+      "lng": -121.7404872
+    },
+    "education": {
+      "school": "University of California, Davis",
+      "graduation_year": 1980,
+      "years_in_practice": 40
+    },
+    "fees": {
+      "individual": 150,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "My psychotherapy practice is built around helping people create significant changes in the way they are able to live their lives. Those who have been challenged by the experience of becoming parents of a difficult child, those who have had their lives disrupted by trauma, those struggling with food issues, and those who desire to deepen their understanding of themselves are among the people who will find a welcoming space in my office to slow down and reflect. I believe that living a mindful and aware life is a true blessing.In addition to a psychodynamic focus to help you on your journey of internal understanding and healing, I use mindfulness, hypnosis, and behavioral techniques to transform intense and painful emotions and use EMDR to assist healing from trauma.I enjoy working with parents and young children to help them create a more rewarding family life in which all can thrive. Children (and some adults) love my sand tray as a way to express and understand their inner life non-verbally.\nI look forward to hearing from you."
+    ],
+    "age_focus": [
+      "Adults",
+      "Elders (65+)"
+    ],
+    "issues": [
+      "ADHD",
+      "Eating Disorders",
+      "Parenting",
+      "Self-Harming",
+      "Sexual Abuse",
+      "Trauma and PTSD"
+    ],
+    "modailities": [
+      "Individuals"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check"
+    ],
+    "treatment_orientation": [
+      "Eclectic",
+      "EMDR",
+      "Psychodynamic",
+      "Sandplay",
+      "Trauma Focused"
+    ]
+  },
+  {
+    "full_name": "Justin Olson",
+    "name": {
+      "title": "",
+      "first": "Justin",
+      "last": "Olson"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+18557432006",
+    "pronouns": "",
+    "location": {
+      "line1": "1590 Drew Avenue",
+      "line2": "Suite 200",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95618",
+      "country_code": "US",
+      "lat": 38.5401976,
+      "lng": -121.726578
+    },
+    "education": {
+      "school": "University of Phoenix",
+      "graduation_year": 0,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 0,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "Justin first noticed his innate desire to connect with others when he was a child. He is board-certified in addictions and co-morbidity; teenagers, adults, and the elderly; and high-acuity clients with anxiety, depression, and trauma. Justin specializes in understanding unconscious maladaptive thinking and behaviors that lead to depression and anxiety. He helps adults discover and discard old, unhelpful patterns and learn to integrate new ways of thinking and behaving. Justin utilizes psychodynamic, cognitive behavioral, and existential concepts.He believes we all have the capacity to expand when we obtain momentum in a healthy direction. Understanding other cultures and people pulls us closer to understanding commonalities, new perspectives, and concepts to feel increasingly empowered. He also believes dancing can be the ultimate liberation for the spirit."
+    ],
+    "age_focus": [
+      "Teen",
+      "Adults",
+      "Elders (65+)"
+    ],
+    "issues": [
+      "Addiction",
+      "Alcohol Use",
+      "Anxiety",
+      "Bipolar Disorder",
+      "Depression",
+      "Divorce",
+      "Grief",
+      "Stress",
+      "Trauma and PTSD"
+    ],
+    "modailities": [],
+    "payment_methods": [],
+    "treatment_orientation": [
+      "Cognitive Behavioral (CBT)",
+      "Existential",
+      "Psychodynamic"
+    ]
+  },
+  {
+    "full_name": "Caroline J Grantz",
+    "name": {
+      "title": "Dr.",
+      "first": "Caroline",
+      "last": "Grantz"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15302968749",
+    "pronouns": "",
+    "location": {
+      "line1": "509 4th Street",
+      "line2": "Suite A-1",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5458944,
+      "lng": -121.7424756
+    },
+    "education": {
+      "school": "University of Miami",
+      "graduation_year": 2013,
+      "years_in_practice": 10
+    },
+    "fees": {
+      "individual": 350,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "You may be at the top of your game, but you feel stuck. Misunderstood. Something just isn't quite right. This may be affecting relationships, your work, or your ability to meet a goal you set. Things \"should\" be easy. They seem easy to other people. Why not you? I work with neurodivergent teens and adults who are discovering that their brains work differently. Moving into a space of self-compassion and understanding allows for a re-imagining of how to meet goals, connect and foster relationships, and excel at work.I use ACT, CFT, and neurodiversity-affirming CBT to help you identify what is important to you and pursue it, even when it's hard. I also provide neurodiversity-affirming assessments for autism and ADHD.I'm passionate about helping people understand themselves better and honored to be part of clients' therapeutic journey. Let's get you thriving."
+    ],
+    "age_focus": [
+      "Teen",
+      "Adults"
+    ],
+    "issues": [
+      "ADHD",
+      "Autism",
+      "Testing and Evaluation"
+    ],
+    "modailities": [
+      "Individuals"
+    ],
+    "payment_methods": [
+      "American Express",
+      "Discover",
+      "Health Savings Account",
+      "Mastercard",
+      "Visa"
+    ],
+    "treatment_orientation": [
+      "Acceptance and Commitment (ACT)",
+      "Compassion Focused",
+      "Strengths and attachment honoring",
+      "Neurodiversity-Affirming cognitive-behavioral"
+    ]
+  },
+  {
+    "full_name": "Robert Huston",
+    "name": {
+      "title": "Mr.",
+      "first": "Robert",
+      "last": "Huston"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15302978031",
+    "pronouns": "",
+    "location": {
+      "line1": "105 E Street",
+      "line2": "Suite 2E",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5423402,
+      "lng": -121.7409909
+    },
+    "education": {
+      "school": "University of Davis, California",
+      "graduation_year": 2017,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 135,
+      "couple": 160
+    },
+    "paragraph_descriptions": [
+      "Life can be difficult at times. You may be experiencing that very sentiment, living through a situation that you cannot easily manage or navigate on your own.  My desire and role are to provide the needed support for you to overcome your present difficulties and move forward on a productive path. I offer an unbiased, non-judgmental, and open-minded partnership on your path to healing. I do mean partnership. I believe that we all possess various tools for improving our situations and our lives. Unfortunately, it is not always easy to locate said tools or identify our own inner strengths/resources. Things can become quite cloudy when faced with seemingly insurmountable obstacles, particularly when beyond our control. Together we will find workable solutions.As a certified hypnotherapist I've helped people with anxiety & depression. As a group counselor for Refuge Recovery, I aided with substance use issues. Now, as an Associate Marriage & Family Therapist, and Associate Professional Clinical Counselor, I continue to help many more people with their distinct struggles & issues with an evidence-based approach."
+    ],
+    "age_focus": [
+      "Children (6 to 10)",
+      "Preteen",
+      "Teen",
+      "Adults",
+      "Elders (65+)"
+    ],
+    "issues": [
+      "Anger Management",
+      "Anxiety",
+      "Behavioral Issues",
+      "Child",
+      "Coping Skills",
+      "Depression",
+      "Family Conflict",
+      "Grief",
+      "Life Coaching",
+      "Life Transitions",
+      "Marital and Premarital",
+      "Parenting",
+      "Relationship Issues",
+      "Sleep or Insomnia",
+      "Stress",
+      "Trauma and PTSD"
+    ],
+    "modailities": [],
+    "payment_methods": [
+      "Cash",
+      "Check",
+      "Mastercard",
+      "Paypal",
+      "Visa"
+    ],
+    "treatment_orientation": [
+      "Coaching",
+      "Hypnotherapy",
+      "Mindfulness-Based (MBCT)",
+      "Positive Psychology",
+      "Solution Focused Brief (SFBT)",
+      "Strength-Based"
+    ]
+  },
+  {
+    "full_name": "Louise Walker",
+    "name": {
+      "title": "",
+      "first": "Louise",
+      "last": "Walker"
+    },
+    "accepting_new_patients": true,
+    "appointments": {
+      "online": true,
+      "in_person": true
+    },
+    "phone": "+15306378964",
+    "pronouns": "",
+    "location": {
+      "line1": "1621 Oak Ave",
+      "line2": "Suite B",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.558787,
+      "lng": -121.752565
+    },
+    "education": {
+      "school": "Goddard College",
+      "graduation_year": 1978,
+      "years_in_practice": 0
+    },
+    "fees": {
+      "individual": 150,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "As my client, you will have my full commitment to listen carefully to your concerns and explore options that are attainable and will bring meaningful experiences to your life. In the immediacy of our hour together, there will be the opportunity to deepen the connection to yourself and to those who are important to you. Our therapeutic work increases self-awareness which in turn enhances your ability to live authentically and relationally. I am trained in EMDR when this modality is needed to diminish traumatic injury.I specialize in Emotionally Focused Couples Therapy (EFT). If you are my clients, we work together to identify patterns sourced in old emotional injuries that block feelings of caring and intimacy. Through deepening self-awarenss, negative patterns are incrementally replaced by positive ones. These include experiencing a loving acceptance of yourself and of your partner."
+    ],
+    "age_focus": [
+      "Adults"
+    ],
+    "issues": [
+      "Adoption",
+      "Anxiety",
+      "Coping Skills",
+      "Depression",
+      "Grief",
+      "Infidelity",
+      "Life Transitions",
+      "Marital and Premarital",
+      "Exploration of the Creative Process",
+      "Parenting",
+      "Relationship Issues",
+      "Self Esteem",
+      "Stress",
+      "Women's Issues"
+    ],
+    "modailities": [
+      "Individuals",
+      "Couples"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check",
+      "Zelle"
+    ],
+    "treatment_orientation": [
+      "EMDR",
+      "Emotionally Focused",
+      "Family / Marital",
+      "Gestalt",
+      "Emotionally Focused Couples Therapy",
+      "Psychodynamic",
+      "Relational"
+    ]
+  },
+  {
+    "full_name": "Laura Shlien",
+    "name": {
+      "title": "Ms.",
+      "first": "Laura",
+      "last": "Shlien"
+    },
+    "accepting_new_patients": false,
+    "appointments": {
+      "online": false,
+      "in_person": false
+    },
+    "phone": "+15304194760",
+    "pronouns": "",
+    "location": {
+      "line1": "717 7th St",
+      "line2": "",
+      "city": "Davis",
+      "region": "California",
+      "region_code": "CA",
+      "postal_code": "95616",
+      "country_code": "US",
+      "lat": 38.5504781,
+      "lng": -121.7412738
+    },
+    "education": {
+      "school": "JFK Graduate School of Professional Psychology",
+      "graduation_year": 2010,
+      "years_in_practice": 13
+    },
+    "fees": {
+      "individual": 120,
+      "couple": 0
+    },
+    "paragraph_descriptions": [
+      "Do you feel over sensitive or misunderstood, or that patterns keep repeating in your life?  Therapy is a unique experience that gets under the patterns to see why and how they got you into a negative space-and then to help get unstuck. Working through your experience of loss can help make sense of the depression or anxiety that are taking too much or your time and energy.   That unlocks the natural development of healthy self esteem. Therapy helps you reclaim yourself from the 'unfinished business' of life stresses.  Please inquire through email LauraShlien@gmail.com, as calls from this site may get lost and I want to respond to youHow this works; as you explain what is stopping your from moving forward, we can illuminate not only the patterns but also a time of life or vivid experience when those patterns developed. With insightful compassion comes the ability to reassemble your reactions to stressors.  That creates positive change.There are real techniques to push back at intrusive and negative self talk.  There is real evidence that  a change in perspective brings a change in outcomes.  The past won't alter but the presents belongs to you. Change is hard but both necessary and possible.  I am meeting with people by a HIPPA secure telehealth program, and clients find this really works"
+    ],
+    "age_focus": [
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Grief"
+    ],
+    "modailities": [
+      "Individuals"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check"
+    ],
+    "treatment_orientation": [
+      "Narrative",
+      "Object Relations",
+      "Developmental Psychology",
+      "Person-Centered",
+      "Psychodynamic"
+    ]
+  }
+]
