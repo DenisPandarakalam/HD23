@@ -1,44 +1,29 @@
 import { get_vector_values } from "@/app/utils/openai";
-import { insert_vectors } from "@/app/utils/pinecone";
+import { insert_vectors, pinecone, setup } from "@/app/utils/pinecone";
+import jayson_file from "../../../../data_map.json";
+import { Vector } from "@pinecone-database/pinecone";
 if (!process.env.OPENAI_API_KEY) {
   throw new Error("Missing env var from OpenAI");
 }
 export const runtime = "edge";
 export const preferredRegion = "sfo1";
 
-// insert multiple therapists into the database
-type req_body = therapistData[];
-type therapistData = {
-  id: string;
-  text: string;
-};
-type other_data = {
-  values: number[];
-};
 export async function GET(req: Request): Promise<Response> {
-  const body: req_body = await req.json();
-  if (!body || !body.length) {
-    return new Response("Missing text", { status: 400 });
-  }
-
-  const data = new Array<therapistData & other_data>();
-  for (const therapist of body) {
-    // data.set(therapist.id, {
-    //   id: therapist.id,
-    //   text: therapist.text,
-    //   values: await get_vector_values(therapist.text),
-    // });
-    data.push({
-      id: therapist.id,
-      text: therapist.text,
-      values: await get_vector_values(therapist.text),
+  await setup();
+  const index = pinecone.Index("therapi-dataset");
+  // run through map of jayson file
+  const jayson_map = jayson_file as Record<string, object>;
+  const vectors: Vector[] = [];
+  for (const [key, value] of Object.entries(jayson_map)) {
+    const vector = await get_vector_values(JSON.stringify(value));
+    console.log(vector);
+    vectors.push({
+      id: key,
+      values: vector,
     });
   }
 
-  // insert vectors into database
-  await insert_vectors(data);
+  await insert_vectors(index, vectors);
 
-  const ids = data.map((therapist) => therapist.id);
-
-  return new Response(`Successfully inserted:\n ${ids.join("\n")}`, { status: 200 });
+  return new Response(`Successfully inserted`, { status: 200 });
 }

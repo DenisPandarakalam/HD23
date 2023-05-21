@@ -1,16 +1,16 @@
 import { PineconeClient, Vector } from "@pinecone-database/pinecone";
+import { VectorOperationsApi } from "@pinecone-database/pinecone/dist/pinecone-generated-ts-fetch";
 
 export const pinecone = new PineconeClient();
-async function setup() {
+export async function setup() {
   await pinecone.init({
     environment: process.env.PINECONE_ENVIRONMENT!, // always going to be a string
     apiKey: process.env.PINECONE_API_KEY!, // always going to be a string never undefined
   });
 }
 setup();
-const index = pinecone.Index("therapi-dataset");
 
-export async function insert_vectors(vectors: Vector[]): Promise<void> {
+export async function insert_vectors(index: VectorOperationsApi, vectors: Vector[]): Promise<void> {
   await index.upsert({
     upsertRequest: {
       vectors,
@@ -19,7 +19,11 @@ export async function insert_vectors(vectors: Vector[]): Promise<void> {
   });
 }
 
-export async function query_vector(vector: Vector, topK: number): Promise<{ id: string; score?: number }[]> {
+export async function query_vector(
+  index: VectorOperationsApi,
+  vector: Vector,
+  topK: number
+): Promise<{ id: string; score?: number }[]> {
   const queryRequest = {
     vector: vector.values,
     topK,
