@@ -1,4 +1,8 @@
-import { createParser, ParsedEvent, ReconnectInterval } from "eventsource-parser";
+import {
+  createParser,
+  ParsedEvent,
+  ReconnectInterval,
+} from "eventsource-parser";
 
 export type ChatGPTAgent = "user" | "system";
 
@@ -73,4 +77,38 @@ export async function OpenAIStream(payload: OpenAIStreamPayload) {
   });
 
   return stream;
+}
+const OPENAI_EMBEDDING_MODEL = "text-embedding-ada-002";
+
+type EmbeddingBody = {
+  model: string;
+  input: string;
+};
+
+type EmbeddingResponse = {
+  object: string;
+  index: number;
+  embedding: number[];
+  model: string;
+  usage: {
+    prompt_tokens: number;
+    total_tokens: number;
+  };
+};
+
+export async function get_vector_values(text: string): Promise<number[]> {
+  const body: EmbeddingBody = {
+    model: OPENAI_EMBEDDING_MODEL,
+    input: text,
+  };
+  const res = await fetch("https://api.openai.com/v1/embeddings", {
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${process.env.OPENAI_API_KEY ?? ""}`,
+    },
+    method: "POST",
+    body: JSON.stringify(body),
+  });
+  const json: EmbeddingResponse = await res.json();
+  return json.embedding;
 }
