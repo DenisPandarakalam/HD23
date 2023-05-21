@@ -1,9 +1,34 @@
 "use client"
 
-import React from 'react';
-import { GoogleMap, LoadScript, Marker } from '@react-google-maps/api';
+import { GoogleMap, InfoWindow, LoadScript, Marker } from '@react-google-maps/api';
+import React, { useState } from "react";
+import { string } from 'zod';
+
 
 const MapContainer = () => {
+
+  const markers = [
+    {
+      id: 1,
+      name: "CATHERINE LEBLANC, LMFT",
+      position: { lat: 38.550480, lng: -121.741280 }
+    },
+    {
+      id: 2,
+      name: "Denver, Colorado",
+      position: { lat: 38.556368, lng: -121.753321 }
+    },
+    {
+      id: 3,
+      name: "Los Angeles, California",
+      position: { lat: 34.052235, lng: -118.243683 }
+    },
+    {
+      id: 4,
+      name: "New York, New York",
+      position: { lat: 40.712776, lng: -74.005974 }
+    }
+  ];
 
   const customMapStyle = [
     {
@@ -18,6 +43,15 @@ const MapContainer = () => {
             }
         ]
     },
+    {
+      "featureType": "city",
+      "elementType": "labels",
+      "stylers": [
+          {
+              "visibility": "off"
+          }
+      ]
+  },
     {
       "featureType": "poi",
       "elementType": "labels",
@@ -279,7 +313,29 @@ const MapContainer = () => {
   lat: 38.549962,
   lng: -121.734213
   }
+
+  const [activeMarker, setActiveMarker] = useState(null);
+
+  const handleActiveMarker = (marker) => {
+    if (marker === activeMarker) {
+      return;
+    }
+    setActiveMarker(marker);
+  };
+
+  const handleOnLoad = (map) => {
+    const bounds = new google.maps.LatLngBounds();
+    markers.forEach(({ position }) => bounds.extend(position));
+    map.fitBounds(bounds);
+  };
   
+  const icon = {
+    url: "https://cdn.discordapp.com/attachments/1109526930916655124/1109704287010959400/image.png",
+    scaledSize: new google.maps.Size(50, 50),
+    origin: new google.maps.Point(0, 0),
+    anchor: new google.maps.Point(0, 0),
+  };
+
   return (
      <LoadScript
        googleMapsApiKey='AIzaSyAlCbYm7I4nUSockriyqenio0GCVjBAGxQ'>
@@ -293,9 +349,22 @@ const MapContainer = () => {
             zoomControl: false,
             styles: customMapStyle,
          }}>
-          <Marker
-            position={position}
-          />
+          {markers.map(({ id, name, position }) => (
+            <Marker
+              key={id}
+              position={position}
+              onClick={() => handleActiveMarker(id)}
+              animation={google.maps.Animation.BOUNCE}
+              // if want to only jump when clicked: animation={activeMarker === id ? google.maps.Animation.BOUNCE : null}
+              icon={icon}
+            >
+              {activeMarker === id ? (
+                <InfoWindow onCloseClick={() => setActiveMarker(null)}>
+                  <div>{name}</div>
+                </InfoWindow>
+              ) : null}
+            </Marker>
+          ))}
         </GoogleMap>
      </LoadScript>
   )
