@@ -59,9 +59,6 @@ const MapContainer = () => {
         "elementType": "geometry.fill",
         "stylers": [
             {
-                "visibility": "off"
-            },
-            {
                 "color": "#813033"
             },
             {
@@ -71,7 +68,7 @@ const MapContainer = () => {
                 "lightness": "38"
             },
             {
-                "visibility": "on"
+                "visibility": "off"
             },
         ]
     },
@@ -92,7 +89,7 @@ const MapContainer = () => {
                 "gamma": "1.00"
             },
             {
-                "visibility": "on"
+                "visibility": "off"
             },
         ]
     },
@@ -116,7 +113,7 @@ const MapContainer = () => {
                 "lightness": "35"
             },
             {
-                "visibility": "on"
+                "visibility": "off"
             },
         ]
     },
@@ -173,7 +170,7 @@ const MapContainer = () => {
         "elementType": "geometry.fill",
         "stylers": [
             {
-                "visibility": "on"
+                "visibility": "off"
             },
             {
                 "color": "#f19f53"

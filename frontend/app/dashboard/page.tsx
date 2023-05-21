@@ -8,18 +8,19 @@ import TextareaReactHookForm from '../chat/page'
 
 export default function Dashboard() {
   return (
-    <main className="flex h-screen w-screen flex-row bg-accent">
+    <main className="flex h-full w-full flex-row bg-accent">
       <SideBar />
       
       <div className="flex h-full w-full flex-col bg-accent">
 
         <TopBar />
         
-        <div className="h-full w-full bg-transparent pb-12 pr-12 overflow-hidden drop-shadow-2xl">
+        <div className="h-full w-full bg-transparent pb-12 pr-12 transition drop-shadow-none hover:drop-shadow-[0_0px_15px_rgba(0,0,0,0.25)]">
           <div className="h-full w-full rounded-[50px] overflow-hidden">
             <MapContainer />
           </div>
         </div>
+
       </div>
       <div className="absolute right-24 bottom-24 h-min w-max items-center text-center justify-center rounded-[50px] bg-white drop-shadow-2xl">
         <TextareaReactHookForm />
