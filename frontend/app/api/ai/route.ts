@@ -1,4 +1,8 @@
-import { ChatGPTMessage, OpenAIStream, OpenAIStreamPayload } from "@/app/utils/openai";
+import {
+  ChatGPTMessage,
+  OpenAIStream,
+  OpenAIStreamPayload,
+} from "@/app/utils/openai";
 import { NextRequest, NextResponse } from "next/server";
 // export async function GET(request: Request) {
 //   return NextResponse.json({ message: "Hello from the API" });
@@ -16,8 +20,13 @@ type PromptData = {
 };
 
 export async function POST(req: Request): Promise<Response> {
-  const body = (await req.json()) satisfies PromptData as PromptData;
-  if (!body.prompt || !body.prompt[0] || !body.prompt[0].content || !body.prompt[0].content.length) {
+  const body = (await req.json()) as PromptData;
+  if (
+    !body.prompt ||
+    !body.prompt[0] ||
+    !body.prompt[0].content ||
+    !body.prompt[0].content.length
+  ) {
     return new Response("No prompt in the request", { status: 400 });
   }
 
