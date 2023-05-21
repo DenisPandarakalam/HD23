@@ -7,7 +7,7 @@
     --gradient-start: #08AEEA;
     --gradient-end: #2AF598;
     
-    --background: #bbe8f8;
+    --background: #F4978E;
     --foreground: 222.2 47.4% 11.2%;
  
     --muted: 210 40% 96.1%;
@@ -28,8 +28,8 @@
     --secondary: 255, 0, 0;
     --secondary-foreground: 222.2 47.4% 11.2%;
  
-    --accent: #91d9f3;
-    --accent-foreground: #1e293b;
+    --accent: #F08080;
+    --accent-foreground: #FFFFFF;
  
     --destructive: 0 100% 50%;
     --destructive-foreground: 210 40% 98%;
@@ -80,8 +80,5 @@
   body {
     @apply bg-background text-foreground;
     font-feature-settings: "rlig" 1, "calt" 1;
-
-    min-width: 100vw;
-    min-height: 100vh;
   }
 }
