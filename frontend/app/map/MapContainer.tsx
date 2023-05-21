@@ -263,9 +263,9 @@ const MapContainer = () => {
     }
 ]
   
-  const mapStyles = {        
-    height: "100vh",
-    width: "100%"
+  const mapStyles = {     
+    width: '100%',
+    height: '100%'
   };
   
   const defaultCenter = {
@@ -281,7 +281,7 @@ const MapContainer = () => {
      <LoadScript
        googleMapsApiKey='AIzaSyAlCbYm7I4nUSockriyqenio0GCVjBAGxQ'>
         <GoogleMap
-          mapContainerStyle={mapStyles}
+          mapContainerClassName='h-full w-full'
           zoom={14}
           center={defaultCenter}
           options={{

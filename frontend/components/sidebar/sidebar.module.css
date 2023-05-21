@@ -13,17 +13,9 @@
 }
 
 .icon {
-    display: flex;
-    justify-content: flex-start;
     margin-top: 20px;
     margin-bottom: 20px;
-    border-radius: 200px;
-    padding: 20px;
 }
 .icon:hover {
     cursor: pointer;
-}
-
-.logoImg {
-    width: 50px;
 }

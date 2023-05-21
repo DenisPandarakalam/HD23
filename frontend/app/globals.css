@@ -19,8 +19,8 @@
     --card: 0 0% 100%;
     --card-foreground: 222.2 47.4% 11.2%;
  
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
+    --border: #FFDAB9;
+    --input: #FFDAB9;
  
     --primary: 222.2 47.4% 11.2%;
     --primary-foreground: 210 40% 98%;
@@ -76,6 +76,10 @@
 @layer base {
   * {
     @apply border-border;
+  }
+  html {
+    height: "100%";
+    width: "100%";
   }
   body {
     @apply bg-accent text-foreground;
