@@ -30,10 +30,10 @@ export default function Resources() {
       <div className="flex w-full flex-col text-left">
         <div className="h-screen w-full bg-background rounded-tl-[50px] rounded-tr-[50px] pl-16 pt-16">
             {
-                SECTIONS.map((section) => {
+                SECTIONS.map((section, i) => {
 
                     return(
-                        <div className="text-white">
+                        <div key={i} className="text-white">
                             <h1 className="text-[48pt] font-bold ">
                                 {section.label}
                             </h1>

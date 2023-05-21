@@ -38,9 +38,9 @@ let SideBar = () => {
                     </div>
                 </div>
                 {
-                    TABS.map(tab => {
+                    TABS.map((tab, i) => {
                         return(
-                            <a href={""+tab.link} className="flex-row text-center items-center justify-center">
+                            <a key={i} href={""+tab.link} className="flex-row text-center items-center justify-center">
                                 {tab.imgsrc({
                                     // className: styles.icon
                                     className: "mx-auto my-14 w-10 h-10 transition drop-shadow-none hover:drop-shadow-[0_0px_15px_rgba(0,0,0,0.25)] text-xl cursor-pointer",
