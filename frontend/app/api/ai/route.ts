@@ -9,6 +9,7 @@ if (!process.env.OPENAI_API_KEY) {
 }
 
 export const runtime = "edge";
+export const preferredRegion = "sfo1";
 
 type PromptData = {
   prompt: ChatGPTMessage[];

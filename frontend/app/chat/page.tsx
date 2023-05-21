@@ -31,7 +31,6 @@ const FormSchema = z.object({
 });
 
 export default function TextareaReactHookForm() {
-  const input = useRef();
   const [streamed, setStreamed] = useState<string[]>([]);
   const [messages, setMessages] = useAtom(messageHistoryAtom);
   const form = useForm<z.infer<typeof FormSchema>>({
