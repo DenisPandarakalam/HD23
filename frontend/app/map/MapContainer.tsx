@@ -7,35 +7,238 @@ const MapContainer = () => {
 
   const customMapStyle = [
     {
-      "featureType": "water",
-      "stylers": [
-          {
-              "color": "#a0d3d3"
-          }
-      ]
-    },
-    {
         "featureType": "landscape",
+        "elementType": "all",
         "stylers": [
             {
-                "color": "#e5e8e7"
+                "color": "#f9ddc5"
+            },
+            {
+                "lightness": "-7"
             }
         ]
     },
     {
-        "featureType": "poi.sports_complex",
-        "elementType": "geometry",
+        "featureType": "poi.business",
+        "elementType": "all",
         "stylers": [
             {
-                "color": "#c7c7c7"
+                "color": "#645c20"
             },
+            {
+                "lightness": "38"
+            }
+        ]
+    },
+    {
+        "featureType": "poi.government",
+        "elementType": "all",
+        "stylers": [
+            {
+                "color": "#9e5916"
+            },
+            {
+                "lightness": "46"
+            },
+            {
+                "gamma": "1"
+            }
+        ]
+    },
+    {
+        "featureType": "poi.medical",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "visibility": "off"
+            },
+            {
+                "color": "#813033"
+            },
+            {
+                "saturation": "0"
+            },
+            {
+                "lightness": "38"
+            },
+            {
+                "visibility": "on"
+            },
+        ]
+    },
+    {
+        "featureType": "poi.park",
+        "elementType": "all",
+        "stylers": [
+            {
+                "color": "#645c20"
+            },
+            {
+                "saturation": "0"
+            },
+            {
+                "lightness": "39"
+            },
+            {
+                "gamma": "1.00"
+            },
+            {
+                "visibility": "on"
+            },
+        ]
+    },
+    {
+        "featureType": "poi.school",
+        "elementType": "all",
+        "stylers": [
+            {
+                "color": "#a95521"
+            },
+            {
+                "lightness": "35"
+            },
+            {
+                "visibility": "on"
+            },
+        ]
+    },
+    {
+        "featureType": "poi.sports_complex",
+        "elementType": "all",
+        "stylers": [
+            {
+                "color": "#9e5916"
+            },
+            {
+                "saturation": "0"
+            },
+            {
+                "lightness": "32"
+            },
+            {
+                "gamma": "1.00"
+            },
+            {
+                "visibility": "off"
+            },
+        ]
+    },
+    {
+        "featureType": "road",
+        "elementType": "all",
+        "stylers": [
+            {
+                "color": "#813033"
+            },
+            {
+                "saturation": "0"
+            },
+            {
+                "lightness": "43"
+            },
+            {
+                "gamma": "1.00"
+            }
+        ]
+    },
+    {
+        "featureType": "road.local",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "visibility": "on"
+            },
+            {
+                "color": "#f19f53"
+            },
+            {
+                "saturation": "0"
+            },
+            {
+                "lightness": "16"
+            },
+            {
+                "gamma": "1.00"
+            },
+            {
+                "weight": "1.30"
+            }
+        ]
+    },
+    {
+        "featureType": "road.local",
+        "elementType": "geometry.stroke",
+        "stylers": [
+            {
+                "color": "#f19f53"
+            },
+            {
+                "saturation": "0"
+            },
+            {
+                "lightness": "-10"
+            },
+            {
+                "gamma": "1.00"
+            }
+        ]
+    },
+    {
+        "featureType": "transit",
+        "elementType": "all",
+        "stylers": [
+            {
+                "lightness": "38"
+            }
+        ]
+    },
+    {
+        "featureType": "transit.line",
+        "elementType": "all",
+        "stylers": [
+            {
+                "color": "#813033"
+            },
+            {
+                "saturation": "0"
+            },
+            {
+                "lightness": "43"
+            },
+            {
+                "gamma": "1.00"
+            }
+        ]
+    },
+    {
+        "featureType": "transit.station",
+        "elementType": "all",
+        "stylers": [
             {
                 "visibility": "off"
             }
         ]
     },
-  ]
-
+    {
+        "featureType": "water",
+        "elementType": "all",
+        "stylers": [
+            {
+                "color": "#1994bf"
+            },
+            {
+                "saturation": "-69"
+            },
+            {
+                "lightness": "43"
+            },
+            {
+                "gamma": "0.99"
+            }
+        ]
+    }
+]
+  
   const mapStyles = {        
     height: "100vh",
     width: "100%"
