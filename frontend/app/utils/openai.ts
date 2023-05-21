@@ -1,8 +1,4 @@
-import {
-  createParser,
-  ParsedEvent,
-  ReconnectInterval,
-} from "eventsource-parser";
+import { createParser, ParsedEvent, ReconnectInterval } from "eventsource-parser";
 
 export type ChatGPTAgent = "user" | "system";
 
@@ -110,5 +106,6 @@ export async function get_vector_values(text: string): Promise<number[]> {
     body: JSON.stringify(body),
   });
   const json: EmbeddingResponse = await res.json();
+  console.log(json);
   return json.embedding;
 }
