@@ -9,15 +9,20 @@ import Users from "../../public/users-2.svg"
 const TABS = [
     {
         label: "Map",
-        imgsrc: Map
+        imgsrc: Map,
+        link: "/dashboard"
     },
     {
         label: "Resources",
-        imgsrc: Phone
+        imgsrc: Phone,
+        
+        link: "/dashboard/resources"
     },
     {
         label: "Team",
-        imgsrc: Users
+        imgsrc: Users,
+        
+        link: "/dashboard/team"
     }
 ]
 
@@ -35,14 +40,15 @@ let SideBar = () => {
                 {
                     TABS.map(tab => {
                         return(
-                            <div className="flex-row text-center items-center justify-center">
+                            <a href={""+tab.link} className="flex-row text-center items-center justify-center">
                                 {tab.imgsrc({
                                     // className: styles.icon
                                     className: "mx-auto my-14 w-10 h-10 transition drop-shadow-none hover:drop-shadow-[0_0px_15px_rgba(0,0,0,0.25)] text-xl cursor-pointer",
                                     // width: "18px",
                                     // height: "18px",
+                                    
                                 })}
-                            </div>
+                            </a>
                         )
                     })
                 }
