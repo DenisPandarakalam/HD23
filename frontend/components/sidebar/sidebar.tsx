@@ -1,9 +1,8 @@
 import React from "react";
 import styles from "./sidebar.module.css";
 let SideBar = () => {
-
     return(
-        <div className="h-screen bg-gradient w-36" >
+        <div className="h-full w-min bg-accent text-accent-foreground" >
             <div className={styles.logo}>
             </div>
             <div className={styles.iconContainer}>

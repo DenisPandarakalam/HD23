@@ -6,11 +6,13 @@ import TopBar from '@/components/topbar/topbar'
 
 export default function Dashboard() {
   return (
-    <main className="flex min-h-screen flex-col bg-background">
-      <TopBar />
+    <main className="flex h-screen w-screen flex-row bg-white">
       <SideBar />
-      <div className="z-10">
-        Hello
+      <div className="flex h-full w-full flex-col bg-accent">
+        <TopBar />
+        <div className="h-full w-full rounded-tl-[50px] bg-white">
+          Hello
+        </div>
       </div>
     </main>
   )
