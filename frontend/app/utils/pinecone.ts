@@ -14,6 +14,20 @@ export async function insert_vectors(vectors: Vector[]): Promise<void> {
   await index.upsert({
     upsertRequest: {
       vectors,
+      namespace: "therapi-dataset-v1",
     },
   });
+}
+
+export async function query_vector(vector: Vector, topK: number): Promise<{ id: string; score?: number }[]> {
+  const queryRequest = {
+    vector: vector.values,
+    topK,
+    includeValues: true,
+    includeMetadata: false,
+    namespace: "therapi-dataset-v1",
+  };
+
+  const queryResponse = await index.query({ queryRequest });
+  return queryResponse.matches ?? [];
 }

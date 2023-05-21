@@ -23,6 +23,7 @@ import {
 import { messageHistoryAtom } from "../utils/atoms";
 import { useAtom } from "jotai";
 import { ChatGPTMessage } from "../utils/openai";
+import Message from "./message";
 
 const FormSchema = z.object({
   prompt: z.string().min(10, {
@@ -95,13 +96,11 @@ export default function TextareaReactHookForm() {
   return (
     <>
       <div className="flex flex-col">
+        <div>
+          <Message text={"Hi there, I'm TherAPI and I'm here to help."} role={"system"} />{" "}
+        </div>
         {messages.map((message, i) => {
-          return (
-            <div key={i} className="">
-              {message.role === "user" ? "User: " : "TherAPI: "}
-              {message.content}
-            </div>
-          );
+          return <Message key={i} text={message.content} role={message.role} />;
         })}
         {loading && streamed.length > 0 && <div>TherAPI: {streamed.join("")}</div>}
       </div>
