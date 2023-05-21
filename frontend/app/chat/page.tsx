@@ -35,7 +35,7 @@ const FormSchema = z.object({
 });
 
 
-export default function TextareaReactHookForm({ className, ...props } : { className: any }) {
+export default function Chat({ className, ...props } : { className?: any }) {
 
   const [messages, setMessages] = useAtom(messageHistoryAtom);
 
@@ -102,7 +102,8 @@ export default function TextareaReactHookForm({ className, ...props } : { classN
             messages.map((message, i) => {
 
               const senderName = message.role === "user" ? "You" : "therAPI";
-              const bgColor = senderName === "You" ? "slate-200" : "transparent"
+              const bgColor = senderName === "You" ? "bg-white" : "bg-[#FFF4EB]";
+              console.log(senderName, bgColor);
 
               return (
                 <div key={i} className={`min-w-full bg-opacity-0 flex flex-row flex-wrap py-3 items-end transition drop-shadow-none hover:drop-shadow-[0_0px_15px_rgba(0,0,0,0.10)]`}>
@@ -114,7 +115,7 @@ export default function TextareaReactHookForm({ className, ...props } : { classN
                       </div>
                     </div>
                   }
-                  <div className={`flex-1 w-full max-w-1/2 rounded-[25px] rounded-b${senderName==="therAPI" ? "l" : "r"}-none font-light backdrop-blur-lg bg-${bgColor} bg-opacity-50 p-3 text-slate-700 text-${senderName == "therAPI" ? "left" : "right"}`}>
+                  <div className={`flex-1 w-full max-w-1/2 rounded-[25px] rounded-b${senderName==="therAPI" ? "l" : "r"}-none font-light backdrop-blur-lg ${bgColor} bg-opacity-30 p-3 text-slate-700 text-${senderName == "therAPI" ? "left" : "right"}`}>
                     {message.content}
                   </div>
                   {
