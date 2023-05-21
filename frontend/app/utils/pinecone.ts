@@ -1,4 +1,4 @@
-import { PineconeClient } from "@pinecone-database/pinecone";
+import { PineconeClient, Vector } from "@pinecone-database/pinecone";
 
 export const pinecone = new PineconeClient();
 async function setup() {
@@ -8,6 +8,12 @@ async function setup() {
   });
 }
 setup();
-// export const pineconeClient = async () => {
-//    await getPineconeClient();
-// };
+const index = pinecone.Index("therapi-dataset");
+
+export async function insert_vectors(vectors: Vector[]): Promise<void> {
+  await index.upsert({
+    upsertRequest: {
+      vectors,
+    },
+  });
+}
