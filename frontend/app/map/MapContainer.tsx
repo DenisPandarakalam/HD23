@@ -293,13 +293,13 @@ const MapContainer = () => {
          }}>
             {data.map((loc) => (
                 <Marker
-                key={loc.full_name}
-                position={{ lat: loc.location.lat, lng: loc.location.lng }}
-                animation={1}
-                icon = {{
-                    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Person_icon_BLACK-01.svg/1924px-Person_icon_BLACK-01.svg.png",
-                    scaledSize: new window.google.maps.Size(50, 50),
-                }}
+                    key={loc.full_name}
+                    position={{ lat: loc.location.lat as number, lng: loc.location.lng as number }}
+                    animation={1}
+                    icon = {{
+                        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Person_icon_BLACK-01.svg/1924px-Person_icon_BLACK-01.svg.png",
+                        scaledSize: new google.maps.Size(50, 50),
+                    }}
                 />
             ))}
         </GoogleMap>
