@@ -1,5 +1,5 @@
 import puppeteer, { Browser } from "puppeteer";
-import fs from "fs";
+import fs from "node:fs";
 
 async function scrape_page_urls(browser: Browser, page_number: number): Promise<string[]> {
   const page = await browser.newPage();

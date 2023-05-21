@@ -4,15 +4,25 @@
   "description": "",
   "main": "scrape.ts",
   "scripts": {
-    "main": "ts-node scrape.ts"
+    "api": "ts-node api.ts",
+    "url": "ts-node scrape_urls.ts",
+    "uuid": "ts-node scrape_uuids.ts",
+    "page": "ts-node scrape_pages.ts",
+    "convert": "ts-node convert.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bottleneck": "^2.19.5",
+    "https-proxy-agent": "^6.2.0",
+    "nanoid": "^3.3.6",
+    "node-fetch": "^2.6.7",
     "puppeteer": "^20.2.1"
   },
   "devDependencies": {
+    "@types/node-fetch": "^2.6.4",
+    "dotenv": "^16.0.3",
     "ts-node": "^10.9.1"
   }
 }

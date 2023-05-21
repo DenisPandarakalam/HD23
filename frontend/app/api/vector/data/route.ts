@@ -1,10 +1,8 @@
 import { get_vector_values } from "@/app/utils/openai";
 import { insert_vectors } from "@/app/utils/pinecone";
-import { Vector } from "@pinecone-database/pinecone";
 if (!process.env.OPENAI_API_KEY) {
   throw new Error("Missing env var from OpenAI");
 }
-
 export const runtime = "edge";
 export const preferredRegion = "sfo1";
 
@@ -17,7 +15,7 @@ type therapistData = {
 type other_data = {
   values: number[];
 };
-export async function POST(req: Request): Promise<Response> {
+export async function GET(req: Request): Promise<Response> {
   const body: req_body = await req.json();
   if (!body || !body.length) {
     return new Response("Missing text", { status: 400 });
