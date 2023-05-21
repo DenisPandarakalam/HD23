@@ -291,7 +291,7 @@ const MapContainer = () => {
      <LoadScript
        googleMapsApiKey='AIzaSyAlCbYm7I4nUSockriyqenio0GCVjBAGxQ'>
         <GoogleMap
-          mapContainerClassName='h-full w-full z-10'
+          mapContainerClassName='h-full w-full -z-50'
           zoom={14}
           center={defaultCenter}
           options={{
@@ -307,14 +307,16 @@ const MapContainer = () => {
                     }}
                     key={loc.full_name}
                     position={{ lat: loc.location.lat as number, lng: loc.location.lng as number }}
-                    animation={1.0}
+                    animation={loc.full_name == card?.full_name ? 1.0 : 0.0}
                     // icon = MapPin
                     icon = {{
                         // url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Person_icon_BLACK-01.svg/1924px-Person_icon_BLACK-01.svg.png",
                         // url: "frontend\public\map-pin.png",
                         url: "https://upload.wikimedia.org/wikipedia/commons/2/22/Desc-i_gray.svg",
+                        // url: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Circle_icons_clipboard_with_HEX-EB5829_background.svg",
                         scaledSize: {width: 28, height: 28, equals: (other) => (other?.height == 48)},
                     }}
+                    
                 />
             ))}
         </GoogleMap>
@@ -322,21 +324,20 @@ const MapContainer = () => {
      </LoadScript>
      {
             card &&
-            <div className="absolute z-50 top-12 min-h-24 h-min w-max px-6 py-6 bg-gradient-to-t from-[rgb(240,128,128)] to-[rgba(255,218,185,1)] text-white bg-opacity-70 backdrop-blur-3xl rounded-[50px] left-[50%] -translate-x-[50%] drop-shadow-[0_0px_15px_rgba(0,0,0,0.25)]">
-                
-                <div className='font-bold text-[24pt] line-clamp-1'>
+            <div className="absolute z-40 top-12 left-12 min-h-24 h-min w-max min-w-[150px] px-12 py-6 border border-[#FFDAB9] bg-white text-accent bg-opacity-50 backdrop-blur-md rounded-[50px] hover:drop-shadow-[0_0_10px_rgba(255,255,255,0.45)] transition-all">
+                <div className='font-bold text-[24pt] line-clamp-1 z-50'>
                     {card.full_name}
                 </div>
 
-                <div className='font-bold text-[12pt] line-clamp-1'>
+                <div className='font-bold text-[12pt] line-clamp-1 z-50'>
                     {card.phone}
                 </div>
                 
-                <div className=' font-light text-[12pt] line-clamp-1'>
+                <div className=' font-light text-[12pt] line-clamp-1 z-50'>
                     {card.location.line1}
                 </div>
 
-                <div className='font-light text-[12pt] line-clamp-1'>
+                <div className='font-light text-[12pt] line-clamp-1 z-50'>
                     {card.location.line2}
                 </div>
 

@@ -30,10 +30,10 @@ const TABS = [
 
 let SideBar = () => {
     return(
-        <div className="h-full w-min bg-accent text-accent-foreground" >
+        <div className="h-full w-min bg-transparent text-accent" >
             <div className="h-full w-min text-center">
-                <div className="flex-col h-18 w-18 font-black my-6 mx-3 px-3 py-2 border border-[#FFDAB9] border-1 bg-background rounded-full transition drop-shadow-none hover:drop-shadow-[0_0px_10px_rgba(0,0,0,0.15)]">
-                    <div className="m-auto min-h-full min-w-full">
+                <div className="flex-col h-min w-min font-extralight my-6 mx-3 px-3 py-2 border border-[#FFDAB9] border-1 bg-background rounded-full transition drop-shadow-none hover:drop-shadow-[0_0px_10px_rgba(0,0,0,0.15)]">
+                    <div className="m-auto min-h-full min-w-full text-[24pt] text-accent-foreground">
                         therAPI
                     </div>
                 </div>

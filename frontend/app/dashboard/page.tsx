@@ -16,13 +16,13 @@ export default function Dashboard() {
   return (
     <>
       <div className="flex h-full w-full flex-col">
-        <div className="h-full w-full bg-transparent pr-12 overflow-hidden transition drop-shadow-none hover:drop-shadow-[0_0px_15px_rgba(0,0,0,0.25)]">
-          <div className="relative h-screen w-[95%] rounded-tl-[50px] rounded-tr-[50px] overflow-hidden">
+        <div className="h-full w-full bg-transparent pr-12 overflow-hidden transition drop-shadow-[0_0px_10px_rgba(0,0,0,0.15)] hover:drop-shadow-[0_0px_15px_rgba(0,0,0,0.25)]">
+          <div className="relative h-screen w-[95%] rounded-tl-[50px] rounded-tr-[50px] overflow-hidden z-40">
             <MapContainer />
           </div>
         </div>
       </div>
-      <div className="fixed right-8 bottom-8 min-w-min max-h-[800px] flex flex-row justify-end rounded-lg overflow-hidden border border-border backdrop-blur-lg bg-white bg-opacity-70 drop-shadow-2xl transition-transform scale-100 hover:scale-105 ">
+      <div className="fixed right-36 bottom-8 min-w-min max-h-[800px] flex flex-row justify-end rounded-lg overflow-hidden border-0 border-border backdrop-blur-lg bg-white bg-opacity-70 drop-shadow-2xl transition-transform">
         <Button
           onClick={
             (e) => {

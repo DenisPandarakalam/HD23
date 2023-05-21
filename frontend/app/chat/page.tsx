@@ -97,7 +97,7 @@ export default function Chat({ className, ...props } : { className?: any }) {
   return (
     <div className={cn(className, "flex flex-col justify-center items-center text-left p-3 pl-0")}>    
       { messages.length != 0 &&
-        <ScrollArea scroll className="h-[400px] min-w-full py-0 overflow-visible rounded-lg rounded-br-none rounded-bl-none backdrop-blur-lg bg-border bg-opacity-10 border border-b-0 px-4 drop-shadow-[0_0px_5px_rgba(0,0,0,0.10)] z-10">
+        <ScrollArea className="h-[400px] min-w-full py-0 overflow-visible rounded-lg rounded-br-none rounded-bl-none backdrop-blur-lg bg-border bg-opacity-10 border border-b-0 px-4 drop-shadow-[0_0px_5px_rgba(0,0,0,0.10)] z-10">
           {
             messages.map((message, i) => {
 
@@ -159,7 +159,7 @@ export default function Chat({ className, ...props } : { className?: any }) {
               <FormItem className="space-y-0 relative bg-transparent rounded-lg">
                 <FormControl defaultValue="">
                   <div className="w-full h-10 flex flex-row">
-                    <Textarea placeholder="Ask TherAPI anything" className="z-[8] m-0 flex flex-1 max-h-full bg-white text-black border border-r-0 rounded-tr-none rounded-br-none rounded-tl-none rounded-bl-lg px-3 focus-visible:ring-0 focus-visible:ring-offset-0 transition-[filter] drop-shadow-none focus:drop-shadow-[0_0px_5px_rgba(0,0,0,0.30)] hover:drop-shadow-[0_0px_5px_rgba(0,0,0,0.10)] resize-none placeholder:text-slate-400 placeholder:italic justify-center items-center" {...field} disabled={loading} />
+                    <Textarea placeholder="Ask TherAPI anything" className="z-[8] m-0 flex flex-1 max-h-full bg-white text-black border border-r-0 rounded-tr-none rounded-br-none rounded-tl-none rounded-bl-lg px-3 focus-visible:ring-0 focus-visible:ring-offset-0 transition-[filter] drop-shadow-none focus:drop-shadow-[0_0px_5px_rgba(0,0,0,0.10)] hover:drop-shadow-[0_0px_5px_rgba(0,0,0,0.10)] resize-none placeholder:text-slate-400 placeholder:italic justify-center items-center" {...field} disabled={loading} />
                     <Button className="z-[9] min-h-full h-auto bg-white border border-l-0 rounded-tl-none rounded-bl-none rounded-tr-none text-white" type="submit" disabled={loading}>
                       <SendIcon className="text-rose-800 transition-transform scale-110 hover:scale-130"></SendIcon>
                     </Button> 
