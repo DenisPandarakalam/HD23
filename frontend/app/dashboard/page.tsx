@@ -27,7 +27,6 @@ export default function Dashboard() {
           onClick={
             (e) => {
               setChatOpen(!chatOpen);
-              console.log(!chatOpen);
             }
           }
           className='w-[50px] min-h-full h-auto px-0 py-0 z-50'
